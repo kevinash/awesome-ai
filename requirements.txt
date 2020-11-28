@@ -1,0 +1,11 @@
+numpy
+opencv-python
+torch >= 1.4
+torchvision
+matplotlib
+pycocotools
+tqdm
+Pillow
+scikit-learn
+gym
+stable-baselines
