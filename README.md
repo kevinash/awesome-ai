@@ -13,15 +13,6 @@ I authored several books and courses on AI and technology, including AI in Sport
 
 ## About the book
 
-This book is rich in illustrations and original art (made and assisted by AI), as part of this book, I will create release:
-- A physical paperback book
-- An e-book
-- Original artwork and illustrations
-
-The physical paperback and e-book will be sold on Amazon and elsewhere. As a supporter of this project, you'll also have an opportunity to get a reward that includes creative artwork and illustrations (check rewards with artwork!)
-
-## Why this Book?
-
 My first book on AI was fairly technical: I wrote it for geeks and data scientists who want to learn about practical methods of applying AI in the field. So, I decided to write a book about Artificial Intelligence for a broader audience: students, businesspeople, artists, technologists who need ideas, concepts and understanding on what works and what doesn’t with AI.
 I soon realized that most of my readers are passionate about AI and want to discover it and apply it in multiple areas: business, technology, finance, arts, music, health, fitness, robotics, media, games, sport, you name it! In fact, 70% of those reading my posts on Linkedin are managers, founders or partners.
  In this book you’ll find lots of answers to interesting “how does AI work” questions, sprinkled with illustrations and curious facts about AI. You can always refer to my course on AI that has lots of practical examples, notebooks and code.
