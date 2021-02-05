@@ -1,20 +1,91 @@
-# Awesome Artificial Intelligence: Design, Art, Gaming (Illustrated)
+# Awesome AI: Design, Art, Games (Illustrated)
 Book by Kevin Ashley
 
-"Awesome Artificial Intelligence: Design Art, Gaming", is a richly illustrated guide to AI for anyone interested in expanding creativity with artificial intelligence: create AI enhanced design, illustration, gaming and media.  This project includes my original artwork available as part of some rewards.  
+This book is for anyone interested in AI and creativity: design, art, illustration, game creation, movies, animation, and other creative endeavors.    
 
-![http://activefitness.ai](images/banner.png)
+![http://kevinashley.com](images/banner.png)
 
-In this book you’ll find many answers to questions about AI that you always wanted to ask but were afraid to “because everyone knows how this AI thing works anyway". Trust me, some very smart people I’ve been talking to, including CEOs of technology companies, technical gurus and authors of languages you use every day admit they know little about machine learning.
+In the book you’ll find many illustrations and infographics created and augmented by artificial intelligence. In addition to this book, there’s also a supplemental art book called The Art of AI which includes real art created with artificial intelligence from several artists who participated in this project. 
+
+- [Video Tutorials](http://ai-learning.vhx.tv) - Subscribe, updated weekly
+- [The Art of AI](http://kevinashley.com/art-of-ai) – A yearly almanac of the art of AI and the artwork for this book
+
 
 ## About the author
 
-I authored several books and courses on AI and technology, including AI in Sports with Python, Applied Machine Learning in Health and Fitness. I'm a Microsoft developer Hall of Fame engineer, author of popular sports, fitness and gaming apps, Skype featured bots and cloud platforms such as Active Fitness and Winter Sports with several million users. I'm also a passionate technical speaker, founder of several startups and ventures, including mobile, sports, fitness, and cloud.
+[Kevin Ashley](http://instagram.com/awesomeai_art) is a Microsoft Developer Hall of Fame engineer, author of books and courses on AI and technology, popular sports, fitness and gaming apps, Skype featured bots and cloud platforms such as Active Fitness and Winter Sports with several million users. He is a passionate technical speaker, founder of several startups and ventures, including mobile, sports, fitness, and cloud.
 
-## About the book
+## Table of Contents
 
-My first book on AI was fairly technical: I wrote it for geeks and data scientists who want to learn about practical methods of applying AI in the field. So, I decided to write a book about Artificial Intelligence for a broader audience: students, businesspeople, artists, technologists who need ideas, concepts and understanding on what works and what doesn’t with AI.
-I soon realized that most of my readers are passionate about AI and want to discover it and apply it in multiple areas: business, technology, finance, arts, music, health, fitness, robotics, media, games, sport, you name it! In fact, 70% of those reading my posts on Linkedin are managers, founders or partners.
- In this book you’ll find lots of answers to interesting “how does AI work” questions, sprinkled with illustrations and curious facts about AI. You can always refer to my course on AI that has lots of practical examples, notebooks and code.
-In this book, we’ll talk about the awesomeness of AI! 
+Please, use these supplemental materials and code for the video tutorial [Awesome AI: Design, Art, Games](http://ai-learning.vhx.tv). 
+
+For notebooks, it is recommended that your kernel environment is set to Python 3. Check [requirements.txt](requirements.txt) for dependencies. Some notebooks are available in playground environments like Google Colab and Binder.
+
+## Artificial Intelligence 101 
+
+- Artificial Intelligence 101 ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/ai-in-sports-ep-1-1-introduction))
+- Neural Networks ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/ai-in-sports-ep-1-1-introduction))
+- Multi-Layer Networks ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/ai-in-sports-ep-1-1-introduction))
+- Neural Activation Atlases ([Article](https://openai.com/blog/introducing-activation-atlases/))
+- Landscape Painting with Generative Adversarial Networks ([Article](https://arxiv.org/abs/2011.05552))
+
+## Creativity with AI
+
+- Activation Atlases ([Article](https://ai.googleblog.com/2018/03/the-building-blocks-of-interpretability.html)|[Colab](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/activation-atlas/activation-atlas-simple.ipynb)) 
+- Patterns ([Article](https://distill.pub/2018/differentiable-parameterizations/)|)
+- Style Transfer(|[Original Colab](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/style_transfer_2d.ipynb)|[Colab](https://colab.research.google.com/drive/1Yia9N6r3sMK04zjFAJUqD3GA4XPA4Qjz))
+
+## Creative AI Tools
+
+- Neural Network Visualization
+    - OpenAI Microscope ([Code](https://openai.com/blog/microscope/))
+    - Activation Atlases ([Article](https://ai.googleblog.com/2018/03/the-building-blocks-of-interpretability.html)|[Colab](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/activation-atlas/activation-atlas-simple.ipynb)) 
+- Style Transfer
+    - Fast Style Transfer ([Code](https://github.com/lengstrom/fast-style-transfer))
+    - Generative Style Transfer ([Tensorflow](https://www.tensorflow.org/tutorials/generative/style_transfer))
+- Generating Images from Text
+    - Generating Images from Text ([DALL-E](https://openai.com/blog/dall-e))
+- Generating Anime Faces    
+  - Anime Faces Generation ([Article](https://www.gwern.net/TWDNE))
+- Fashion
+  - Fashion [Tool](https://app.runwayml.com/models/ALANIX/Fashion-Illustrations)|[Code](https://colab.research.google.com/drive/1zRt7bKlH6sHeo3anHwvVnz6Z_0YToWb7) 
+- 3D Models
+    - [Article](https://nv-tlabs.github.io/DIB-R/)
+
+## Drawing, Sketching and Painting with AI
+
+- Sketching with AI ([Notebook](Face.ipynb))
+- Lineart with AI ([Notebook](Face.ipynb))
+- Light and Shading with AI ([Notebook](Face.ipynb))
+- Coloring with AI ([Notebook](Face.ipynb))
+- Tips for drawing with AI ([Notebook](Face.ipynb))
+- Design and technical sketches [Sketch Graph](https://github.com/PrincetonLIPS/SketchGraphs)
+    
+## Faces and Expressions with AI
+
+- Face Detection ([Notebook](Face.ipynb))
+- Facial Landmarks and Attributes ([Notebook](Face.ipynb))
+- Eyes ([Notebook](Face.ipynb))
+- 3D Face Orientation ([Notebook](Face.ipynb))
+- Emotions and Facial Expressions ([Notebook](Face.ipynb))
+- Generate Faces ([Notebook](GenerateFaces.ipynb))
+- Tips for applying AI to faces ([Notebook](Face.ipynb))
+
+## Human Body and Poses with AI
+
+- Keypoints and joints with AI ([Notebook](Face.ipynb))
+- Pose Estimation ([Notebook](Face.ipynb))
+- Datasets 2D ([Notebook](Face.ipynb))
+- Datasets 3D ([Notebook](Face.ipynb))
+- Tips for using AI with human body ([Notebook](Face.ipynb))
+
+## Animation and Games with AI
+
+- First Order Motion Model for Image Animation ([Paper](https://arxiv.org/pdf/2003.00196.pdf))
+- An Illusion of Life ([Book](https://www.amazon.com/gp/product/0786860707))
+- Animator's Survival Kit ([Book](https://www.amazon.com/Animators-Survival-Kit-Principles-Classical/dp/086547897X))
+- Pose Animator (Faces and Poses)([Article](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html)|[Code](https://github.com/yemount/pose-animator)|[Demo](https://pose-animator-demo.firebaseapp.com/camera.html))
+
+## The Art of AI
+
 
