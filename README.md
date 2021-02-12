@@ -23,6 +23,7 @@ For notebooks, it is recommended that your kernel environment is set to Python 3
 
 ## Getting Started with AI in Art 
 
+- Visualizing Neurons ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/VisualizingNeurons.ipynb))
 - Activation Functions ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/ActivationFunctions.ipynb))
 - Simple Neural Networks ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/1_GettingStarted/SimpleNeuralNetworks.ipynb))
 - Multi-Layer Neural Networks ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/Multi-LayerNetworks.ipynb))
