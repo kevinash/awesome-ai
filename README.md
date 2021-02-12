@@ -52,7 +52,7 @@ For notebooks, it is recommended that your kernel environment is set to Python 3
 ## Creative AI Tools
 
 - Neural Network Visualization
-    - OpenAI Microscope ([Code](https://openai.com/blog/microscope/))
+    - OpenAI Microscope ([See it](https://openai.com/blog/microscope/))
     - Activation Atlases ([Article](https://ai.googleblog.com/2018/03/the-building-blocks-of-interpretability.html)|[Colab](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/activation-atlas/activation-atlas-simple.ipynb)) 
 - Style Transfer
     - Fast Style Transfer ([Code](https://github.com/lengstrom/fast-style-transfer))
