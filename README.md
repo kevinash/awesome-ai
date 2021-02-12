@@ -37,7 +37,8 @@ For notebooks, it is recommended that your kernel environment is set to Python 3
 
 ## Creativity with AI
 
-- Activation Atlases ([Article](https://ai.googleblog.com/2018/03/the-building-blocks-of-interpretability.html)|[Colab](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/activation-atlas/activation-atlas-simple.ipynb)) 
+- Activation Atlas ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/ActivationAtlas.ipynb) 
+
 - Patterns ([Article](https://distill.pub/2018/differentiable-parameterizations/)|)
 - Style Transfer(|[Original Colab](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/style_transfer_2d.ipynb)|[Colab](https://colab.research.google.com/drive/1Yia9N6r3sMK04zjFAJUqD3GA4XPA4Qjz))
 
@@ -60,6 +61,7 @@ For notebooks, it is recommended that your kernel environment is set to Python 3
 
 ## Drawing, Sketching and Painting with AI
 
+- Quick Draw - Doodling with AI ([QuickDraw](https://quickdraw.withgoogle.com/))
 - Sketching with AI ([Notebook](Face.ipynb))
 - Lineart with AI ([Notebook](Face.ipynb))
 - Light and Shading with AI ([Notebook](Face.ipynb))
