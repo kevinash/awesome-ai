@@ -37,6 +37,8 @@ For notebooks, it is recommended that your kernel environment is set to Python 3
 
 ## Creativity with AI
 
+- Style Transfer ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/2_Creativity/StyleTransfer_Pytorch.ipynb) 
+
 - Activation Atlas ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/ActivationAtlas.ipynb) 
 
 - Patterns ([Article](https://distill.pub/2018/differentiable-parameterizations/)|)
