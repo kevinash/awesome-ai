@@ -23,6 +23,8 @@ For notebooks, it is recommended that your kernel environment is set to Python 3
 
 ## Artificial Intelligence 101 
 
+- Activation Functions ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1-15KAtM8pYn_J7jtDfVPlcAERy_LHBGv/view?usp=sharing))
+
 - Artificial Intelligence 101 ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/ai-in-sports-ep-1-1-introduction))
 - Neural Networks ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/ai-in-sports-ep-1-1-introduction))
 - Multi-Layer Networks ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/ai-in-sports-ep-1-1-introduction))
