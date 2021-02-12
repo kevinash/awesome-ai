@@ -9,11 +9,7 @@ In the book you’ll find many illustrations and infographics created and augmen
 
 - [Video Tutorials](http://ai-learning.vhx.tv) - Subscribe, updated weekly
 - [The Art of AI](http://kevinashley.com/art-of-ai) – A yearly almanac of the art of AI and the artwork for this book
-
-
-## About the author
-
-[Kevin Ashley](http://instagram.com/awesomeai_art) is a Microsoft Developer Hall of Fame engineer, author of books and courses on AI and technology, popular sports, fitness and gaming apps, Skype featured bots and cloud platforms such as Active Fitness and Winter Sports with several million users. He is a passionate technical speaker, founder of several startups and ventures, including mobile, sports, fitness, and cloud.
+- [Instagram](http://instagram.com/awesomeai_art)
 
 ## Table of Contents
 
