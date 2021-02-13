@@ -17,9 +17,11 @@ Please, use these supplemental materials and code for the video tutorial [Awesom
 
 For notebooks, it is recommended that your kernel environment is set to Python 3. Check [requirements.txt](requirements.txt) for dependencies. Some notebooks are available in playground environments like Google Colab and Binder.
 
-## Getting Started 
+## Chapter 1. Getting Started
 
-### Neural Networks
+### Project 1.1 Drawing Sketches
+
+### Project 1.2 Neural Networks
 
 - Single Neuron ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/1_GettingStarted/SimpleNeuralNetworks.ipynb))
 - Neural Networks ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/Multi-LayerNetworks.ipynb))
@@ -27,13 +29,13 @@ For notebooks, it is recommended that your kernel environment is set to Python 3
 - Visualizing Neurons ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/VisualizingNeurons.ipynb))
 - Activation Atlas (([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/ActivationAtlas.ipynb)| [Article](https://openai.com/blog/introducing-activation-atlases/))
 
-### Learning and Training
+### Project 1.3 Neural Methods
 
 - Classification ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/Classification.ipynb))
 - Detection ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/Detection.ipynb))
 - Segmentation ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/Segmentation.ipynb))
 
-## Creativity with AI
+## Chapter 2. Creativity with AI
 
 - Style Transfer ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/2_Creativity/StyleTransfer_Pytorch.ipynb) 
 
