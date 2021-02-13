@@ -1,4 +1,4 @@
-# Awesome AI: Learn to make art with AI
+# Awesome AI: Learn Art with AI
 Book by Kevin Ashley
 
 This book is for anyone interested in AI and creativity: design, art, illustration, game creation, movies, animation, and other creative endeavors.    
