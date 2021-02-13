@@ -21,24 +21,17 @@ For notebooks, it is recommended that your kernel environment is set to Python 3
 
 ### Neural Networks
 
-- Visualizing Neurons ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/VisualizingNeurons.ipynb))
-- Activation Atlas ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/ActivationAtlas.ipynb) 
+- Single Neuron ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/1_GettingStarted/SimpleNeuralNetworks.ipynb))
+- Neural Networks ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/Multi-LayerNetworks.ipynb))
 - Activation Functions ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/ActivationFunctions.ipynb))
-- Simple Neural Networks ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/1_GettingStarted/SimpleNeuralNetworks.ipynb))
-- Multi-Layer Neural Networks ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/Multi-LayerNetworks.ipynb))
+- Visualizing Neurons ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/VisualizingNeurons.ipynb))
+- Activation Atlas (([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/ActivationAtlas.ipynb)| [Article](https://openai.com/blog/introducing-activation-atlases/))
 
-### Basic AI Tasks
+### Learning and Training
 
-- Computer Vision ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/ComputerVision.ipynb))
 - Classification ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/Classification.ipynb))
 - Detection ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/Detection.ipynb))
 - Segmentation ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/Segmentation.ipynb))
-
-- Artificial Intelligence 101 ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/ai-in-sports-ep-1-1-introduction))
-- Neural Networks ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/ai-in-sports-ep-1-1-introduction))
-- Multi-Layer Networks ([Video](https://ai-learning.vhx.tv/packages/ai-in-sports-with-python/videos/ai-in-sports-ep-1-1-introduction))
-- Neural Activation Atlases ([Article](https://openai.com/blog/introducing-activation-atlases/))
-- Landscape Painting with Generative Adversarial Networks ([Article](https://arxiv.org/abs/2011.05552))
 
 ## Creativity with AI
 
@@ -100,6 +93,11 @@ For notebooks, it is recommended that your kernel environment is set to Python 3
 - An Illusion of Life ([Book](https://www.amazon.com/gp/product/0786860707))
 - Animator's Survival Kit ([Book](https://www.amazon.com/Animators-Survival-Kit-Principles-Classical/dp/086547897X))
 - Pose Animator (Faces and Poses)([Article](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html)|[Code](https://github.com/yemount/pose-animator)|[Demo](https://pose-animator-demo.firebaseapp.com/camera.html))
+ 
+
+## Scenes, Landscapes, Building and Architecture
+ 
+- Landscape Painting with Generative Adversarial Networks ([Article](https://arxiv.org/abs/2011.05552))
 
 ## The Art of AI
 
