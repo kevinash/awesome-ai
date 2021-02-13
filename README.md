@@ -11,17 +11,17 @@ In the book you’ll find many illustrations and infographics created and augmen
 - [The Art of AI](http://kevinashley.com/art-of-ai) – A yearly almanac of the art of AI and the artwork for this book
 - [Instagram](http://instagram.com/awesomeai_art)
 
-## Projects from the book 
+# Practical Projects for the Book
 
 Please, use these supplemental materials and code for the video tutorial [Awesome AI: Design, Art, Games](http://ai-learning.vhx.tv). 
 
 For notebooks, it is recommended that your kernel environment is set to Python 3. Check [requirements.txt](requirements.txt) for dependencies. Some notebooks are available in playground environments like Google Colab and Binder.
 
-## Chapter 1. Getting Started
+# Chapter 1. Getting Started
 
-### Project 1.1 Drawing Sketches
+## Project 1.1 Drawing Sketches
 
-### Project 1.2 Neural Networks
+## Project 1.2 Neural Networks
 
 - Single Neuron ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/1_GettingStarted/SimpleNeuralNetworks.ipynb))
 - Neural Networks ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/Multi-LayerNetworks.ipynb))
@@ -29,13 +29,13 @@ For notebooks, it is recommended that your kernel environment is set to Python 3
 - Visualizing Neurons ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/VisualizingNeurons.ipynb))
 - Activation Atlas (([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/ActivationAtlas.ipynb)| [Article](https://openai.com/blog/introducing-activation-atlases/))
 
-### Project 1.3 Neural Methods
+## Project 1.3 Neural Methods
 
 - Classification ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/Classification.ipynb))
 - Detection ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/Detection.ipynb))
 - Segmentation ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/Segmentation.ipynb))
 
-## Chapter 2. Creativity with AI
+# Chapter 2. Creativity with AI
 
 - Style Transfer ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/2_Creativity/StyleTransfer_Pytorch.ipynb) 
 
@@ -44,7 +44,7 @@ For notebooks, it is recommended that your kernel environment is set to Python 3
 - Patterns ([Article](https://distill.pub/2018/differentiable-parameterizations/)|)
 - Style Transfer(|[Original Colab](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/style_transfer_2d.ipynb)|[Colab](https://colab.research.google.com/drive/1Yia9N6r3sMK04zjFAJUqD3GA4XPA4Qjz))
 
-## Creative AI Tools
+# Chapter 3. Creative AI Tools 
 
 - Neural Network Visualization
     - OpenAI Microscope ([Try it](https://openai.com/blog/microscope/))
@@ -61,7 +61,7 @@ For notebooks, it is recommended that your kernel environment is set to Python 3
 - 3D Models
     - [Article](https://nv-tlabs.github.io/DIB-R/)
 
-## Drawing, Sketching and Painting with AI
+# Chapter 4. Drawing, Sketching and Painting with AI
 
 - Quick Draw - Doodling with AI ([Try it](https://quickdraw.withgoogle.com/))
 - Sketching with AI ([Notebook](Face.ipynb))
@@ -71,7 +71,7 @@ For notebooks, it is recommended that your kernel environment is set to Python 3
 - Tips for drawing with AI ([Notebook](Face.ipynb))
 - Design and technical sketches [Sketch Graph](https://github.com/PrincetonLIPS/SketchGraphs)
     
-## Faces and Expressions with AI
+# Chapter 5. Faces and Expressions with AI
 
 - Face Detection ([Notebook](Face.ipynb))
 - Facial Landmarks and Attributes ([Notebook](Face.ipynb))
@@ -81,7 +81,7 @@ For notebooks, it is recommended that your kernel environment is set to Python 3
 - Generate Faces ([Notebook](GenerateFaces.ipynb))
 - Tips for applying AI to faces ([Notebook](Face.ipynb))
 
-## Human Body and Poses with AI
+# Chapter 6. Body and Poses with AI
 
 - Keypoints and joints with AI ([Notebook](Face.ipynb))
 - Pose Estimation ([Notebook](Face.ipynb))
@@ -89,7 +89,7 @@ For notebooks, it is recommended that your kernel environment is set to Python 3
 - Datasets 3D ([Notebook](Face.ipynb))
 - Tips for using AI with human body ([Notebook](Face.ipynb))
 
-## Animation and Games with AI
+# Chapter 7. Animation with AI
 
 - First Order Motion Model for Image Animation ([Paper](https://arxiv.org/pdf/2003.00196.pdf))
 - An Illusion of Life ([Book](https://www.amazon.com/gp/product/0786860707))
@@ -97,10 +97,10 @@ For notebooks, it is recommended that your kernel environment is set to Python 3
 - Pose Animator (Faces and Poses)([Article](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html)|[Code](https://github.com/yemount/pose-animator)|[Demo](https://pose-animator-demo.firebaseapp.com/camera.html))
  
 
-## Scenes, Landscapes, Building and Architecture
+# Chapter 8. Scenes, Landscapes, Building and Architecture
  
 - Landscape Painting with Generative Adversarial Networks ([Article](https://arxiv.org/abs/2011.05552))
 
-## The Art of AI
+# The Art of AI
 
 
