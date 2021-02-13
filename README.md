@@ -11,7 +11,7 @@ In the book you’ll find many illustrations and infographics created and augmen
 - [The Art of AI](http://kevinashley.com/art-of-ai) – A yearly almanac of the art of AI and the artwork for this book
 - [Instagram](http://instagram.com/awesomeai_art)
 
-## Table of Contents
+## Projects from the book 
 
 Please, use these supplemental materials and code for the video tutorial [Awesome AI: Design, Art, Games](http://ai-learning.vhx.tv). 
 
