@@ -1,6 +1,4 @@
-# Awesome AI: Learn Art with AI
-_An illustrated book and tutorials to unleash your creativity with AI_
-
+# Awesome AI: Draw with Artificial Intelligence
 Book by Kevin Ashley
 
 This book is for anyone interested in AI and creativity: design, art, illustration, game creation, movies, animation, and other creative endeavors.    
@@ -23,6 +21,8 @@ For notebooks, it is recommended that your kernel environment is set to Python 3
 
 ## Project 1.1 Drawing Sketches
 
+In this project we begin by simply sketching a portrait, a pose of a human or an animal, and scene, a building or a landscape. Just draw anything you like, we'll use it later in the book.
+
 ## Project 1.2 Neural Networks
 
 - Single Neuron ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/1_GettingStarted/SimpleNeuralNetworks.ipynb))
@@ -38,6 +38,8 @@ For notebooks, it is recommended that your kernel environment is set to Python 3
 - Segmentation ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/Segmentation.ipynb))
 
 # Chapter 2. Creativity with AI
+
+- Artistic Style Transfer ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/lite/g3doc/models/style_transfer/overview.ipynb))
 
 - Style Transfer ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/2_Creativity/StyleTransfer_Pytorch.ipynb) 
 
