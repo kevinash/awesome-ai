@@ -46,6 +46,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - Style Transfer Parametrizations ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/style_transfer_2d.ipynb) )
 - Exaggerating Features (Cartoonification)  ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/2_Creativity/Cartoonify_GAN.ipynb) )
 
+
 - Generate Anime Faces  ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/2_Creativity/GenerateAnimeFaces.ipynb) )
 
 
