@@ -52,6 +52,9 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 ## Project 2.2 Compositions and Patterns
 
 - Patterns ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/xy2rgb.ipynb) | [Article](https://distill.pub/2018/differentiable-parameterizations/) )
+
+![](images/cppn_transparency.png | height = 150)
+
 - Transparency and Patterns ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/2_Creativity/Transparency.ipynb))
 
 - Exaggerating Features (Cartoonification)  ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/2_Creativity/Cartoonify_GAN.ipynb) )
