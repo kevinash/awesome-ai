@@ -38,6 +38,10 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 In this project we begin by simply sketching a portrait, a pose of a human or an animal, and scene, a building or a landscape. Just draw anything you like, we'll use it later in the book.
 
+
+- OpenAI Microscope ([Try it](https://openai.com/blog/microscope/))
+    - Activation Atlases ([Article](https://ai.googleblog.com/2018/03/the-building-blocks-of-interpretability.html)|[Colab](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/activation-atlas/activation-atlas-simple.ipynb)) 
+
 # Chapter 3. Neural Networks
 
 ## Project 3.1 Create a Single Neuron
@@ -82,6 +86,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 ## Project 4.2 Shadow and Light
  
+- Classification ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/SketchSimplification.ipynb))
 
 - Pix2Pix ( ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb) | [Code](https://github.com/phillipi/pix2pix) | [Demo](https://affinelayer.com/pixsrv/) )
 - ShadeSketch ( [Paper](https://arxiv.org/abs/2002.11812) | [Try it](https://qyzdao.github.io/ShadeSketch/) | [Code](https://github.com/qyzdao/ShadeSketch) )
