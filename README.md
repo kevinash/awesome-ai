@@ -23,52 +23,39 @@ For notebooks, it is recommended that your kernel environment is set to Python 3
 
 In this project we begin by simply sketching a portrait, a pose of a human or an animal, and scene, a building or a landscape. Just draw anything you like, we'll use it later in the book.
 
-## Project 1.2 Neural Networks
+## Project 1.2 Explore Creativity
 
-- Single Neuron ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/1_GettingStarted/SimpleNeuralNetworks.ipynb))
-- Neural Networks ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/Multi-LayerNetworks.ipynb))
-- Activation Functions ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/ActivationFunctions.ipynb))
-- Visualizing Neurons ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/VisualizingNeurons.ipynb))
-- Activation Atlas (([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/ActivationAtlas.ipynb)| [Article](https://openai.com/blog/introducing-activation-atlases/))
-
-## Project 1.3 Neural Methods
-
-- Classification ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/Classification.ipynb))
-- Detection ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/Detection.ipynb))
-- Segmentation ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/Segmentation.ipynb))
-
-# Chapter 2. Creativity with AI
-
-## Project 2.1 Style Transfer
-
-- Style Transfer ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/2_Creativity/StyleTransfer_Pytorch.ipynb) ) 
+- Style Transfer ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/StyleTransfer_Pytorch.ipynb) ) 
 - Style Transfer with Blending Proportions ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/lite/g3doc/models/style_transfer/overview.ipynb) )
 - Style Transfer Parametrizations ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/style_transfer_2d.ipynb) )
 - Generating Images with BigGAN ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb) )
 - WikiArt Model Artwork Trained ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Norod/my-colab-experiments/blob/master/WikiArt_Example_Generation_By_Peter_Baylies.ipynb) )
-- Artwork Trained Model ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/2_Creativity/StyleGAN_Paintings.ipynb) )
+- Artwork Trained Model ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/StyleGAN_Paintings.ipynb) )
 
+# Chapter 2. Creative Tools
 
-## Project 2.2 Compositions and Patterns
+## Project 2.1 Creative Tools and AI
 
-- Patterns ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/xy2rgb.ipynb) | [Article](https://distill.pub/2018/differentiable-parameterizations/) )
+In this project we begin by simply sketching a portrait, a pose of a human or an animal, and scene, a building or a landscape. Just draw anything you like, we'll use it later in the book.
 
-![](images/cppn_transparency.png)
+# Chapter 3. Neural Networks
 
-- Transparency and Patterns ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/2_Creativity/Transparency.ipynb))
+## Project 3.1 Create a Single Neuron
 
-- Exaggerating Features (Cartoonification)  ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/2_Creativity/Cartoonify_GAN.ipynb) )
+- Single Neuron ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/3_NeuralNetworks/SimpleNeuralNetworks.ipynb))
 
+## Project 3.2 Neural Networks
 
-- Generate Anime Faces  ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/2_Creativity/GenerateAnimeFaces.ipynb) )
+- Neural Networks ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/3_NeuralNetworks/Multi-LayerNetworks.ipynb))
+- Activation Functions ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/3_NeuralNetworks/ActivationFunctions.ipynb))
+- Visualizing Neurons ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/3_NeuralNetworks/VisualizingNeurons.ipynb))
+- Activation Atlas (([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/3_NeuralNetworks/ActivationAtlas.ipynb)| [Article](https://openai.com/blog/introducing-activation-atlases/))
 
+## Project 3.3 Neural Methods
 
-- Activation Atlas ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/ActivationAtlas.ipynb) 
-
-
-- 
-- 
-- Style Transfer(|[Original Colab](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/style_transfer_2d.ipynb)|[Colab](https://colab.research.google.com/drive/1Yia9N6r3sMK04zjFAJUqD3GA4XPA4Qjz))
+- Classification ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/3_NeuralNetworks/Classification.ipynb))
+- Detection ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/3_NeuralNetworks/Detection.ipynb))
+- Segmentation ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/3_NeuralNetworks/Segmentation.ipynb))
 
 # Chapter 3. Creative AI Tools 
 
@@ -87,9 +74,18 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - 3D Models
     - [Article](https://nv-tlabs.github.io/DIB-R/)
 
-# Chapter 4. Drawing, Sketching and Painting with AI
+# Chapter 4. Drawing, Sketching and Painting 
+
+## Project 4.1 Sketching 
 
 - Quick Draw - Doodling with AI ([Try it](https://quickdraw.withgoogle.com/))
+
+## Project 4.2 Shadow and Light
+ 
+
+- Pix2Pix ( ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb) | [Code](https://github.com/phillipi/pix2pix) | [Demo](https://affinelayer.com/pixsrv/) )
+- ShadeSketch ( [Paper](https://arxiv.org/abs/2002.11812) | [Try it](https://qyzdao.github.io/ShadeSketch/) | [Code](https://github.com/qyzdao/ShadeSketch) )
+
 - Sketching with AI ([Notebook](Face.ipynb))
 - Lineart with AI ([Notebook](Face.ipynb))
 - Light and Shading with AI ([Notebook](Face.ipynb))
@@ -126,6 +122,31 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 # Chapter 8. Scenes, Landscapes, Building and Architecture
  
 - Landscape Painting with Generative Adversarial Networks ([Article](https://arxiv.org/abs/2011.05552))
+
+# Chapter 2. Creativity with AI
+
+## Project 2.1 Style Transfer
+
+## Project 2.2 Compositions and Patterns
+
+- Patterns ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/xy2rgb.ipynb) | [Article](https://distill.pub/2018/differentiable-parameterizations/) )
+
+![](images/cppn_transparency.png)
+
+- Transparency and Patterns ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/2_Creativity/Transparency.ipynb))
+
+- Exaggerating Features (Cartoonification)  ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/2_Creativity/Cartoonify_GAN.ipynb) )
+
+
+- Generate Anime Faces  ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/2_Creativity/GenerateAnimeFaces.ipynb) )
+
+
+- Activation Atlas ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/ActivationAtlas.ipynb) 
+
+
+- 
+- 
+- Style Transfer(|[Original Colab](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/style_transfer_2d.ipynb)|[Colab](https://colab.research.google.com/drive/1Yia9N6r3sMK04zjFAJUqD3GA4XPA4Qjz))
 
 # The Art of AI
 
