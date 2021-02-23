@@ -38,9 +38,12 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 In this project we begin by simply sketching a portrait, a pose of a human or an animal, and scene, a building or a landscape. Just draw anything you like, we'll use it later in the book.
 
-
 - OpenAI Microscope ([Try it](https://openai.com/blog/microscope/))
-    - Activation Atlases ([Article](https://ai.googleblog.com/2018/03/the-building-blocks-of-interpretability.html)|[Colab](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/activation-atlas/activation-atlas-simple.ipynb)) 
+- Photoshop and Adobe Sensei - Neural Filters ( [Article](https://helpx.adobe.com/photoshop/using/neural-filters.html) )
+- Clip Studio Paint - AI Colorizing ( [Article](https://tips.clip-studio.com/en-us/articles/3939) )
+- Petalica Paint ( [Try it](https://petalica-paint.pixiv.dev/index_en.html) )
+
+
 
 # Chapter 3. Neural Networks
 
@@ -53,7 +56,9 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - Neural Networks ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/3_NeuralNetworks/Multi-LayerNetworks.ipynb))
 - Activation Functions ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/3_NeuralNetworks/ActivationFunctions.ipynb))
 - Visualizing Neurons ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/3_NeuralNetworks/VisualizingNeurons.ipynb))
+- Activation Atlases ([Article](https://ai.googleblog.com/2018/03/the-building-blocks-of-interpretability.html)|[Colab](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/activation-atlas/activation-atlas-simple.ipynb)) 
 - Activation Atlas (([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/3_NeuralNetworks/ActivationAtlas.ipynb)| [Article](https://openai.com/blog/introducing-activation-atlases/))
+
 
 ## Project 3.3 Neural Methods
 
