@@ -82,16 +82,16 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 ## Project 4.1 Sketching 
 
-- Quick Draw - Doodling with AI ([Try it](https://quickdraw.withgoogle.com/))
+- Quick Draw - Doodling with AI ( [Try it](https://quickdraw.withgoogle.com/) )
+- Cartoonify – turn your photo in a drawing, Google experiment ( [Try it](https://experiments.withgoogle.com/cartoonify) )
+- Sketch RNN ( [Try it](https://experiments.withgoogle.com/sketch-rnn-demo) )
 - Sketch Simplification ( [Paper](https://esslab.jp/~ess/en/research/sketch_master/) | [Code](https://github.com/bobbens/sketch_simplification) )
 - Sketching Lines Refining ( [Code](https://github.com/hepesu/LineRelifer/) )
 
 ## Project 4.2 Shadow and Light
- 
 
 - Sketch from portraits (ArtLine) ( [Code](https://github.com/vijishmadhavan/ArtLine) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/SketchFromPortraits_ArtLine.ipynb))
 - Cartoons from Portraits ( [Code](https://github.com/vijishmadhavan/Toon-Me) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/CartoonifyPortraits_ToonMe.ipynb) )
-
 - Pix2Pix ( ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb) | [Code](https://github.com/phillipi/pix2pix) | [Demo](https://affinelayer.com/pixsrv/) )
 - ShadeSketch ( [Paper](https://arxiv.org/abs/2002.11812) | [Try it](https://qyzdao.github.io/ShadeSketch/) | [Code](https://github.com/qyzdao/ShadeSketch) )
 
