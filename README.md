@@ -1,4 +1,4 @@
-# Awesome AI: Draw with Artificial Intelligence
+# Awesome AI: Drawing with Artificial Intelligence
 Book by Kevin Ashley
 
 This book is for anyone interested in AI and creativity: design, art, illustration, game creation, movies, animation, and other creative endeavors.    
