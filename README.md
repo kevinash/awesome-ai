@@ -43,6 +43,8 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 # Chapter 3. Neural Networks
 
+![http://kevinashley.com](images/neuralnet.jpg)
+
 ## Project 3.1 Create a Single Neuron
 
 - Single Neuron ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/3_NeuralNetworks/SimpleNeuralNetworks.ipynb))
