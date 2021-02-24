@@ -1,7 +1,7 @@
 # Awesome AI: Drawing with Artificial Intelligence
 Book by Kevin Ashley
 
-This book is for anyone interested in AI and creativity: design, art, illustration, game creation, movies, animation, and other creative endeavors.    
+This book is for anyone interested in AI and creativity: design, art, illustration, game creation, movies, animation, and other creative endeavors. My method is combining creativity and AI.
 
 ![http://kevinashley.com](images/banner.png)
 
@@ -13,15 +13,15 @@ In the book you’ll find many illustrations and infographics created and augmen
 
 # Practical Projects for the Book
 
-Please, use these supplemental materials and code for the video tutorial [Awesome AI: Design, Art, Games](http://ai-learning.vhx.tv). 
+Please, use these supplemental materials and code for the video tutorial [Awesome AI: Drawing with Artificial Intelligence](http://ai-learning.vhx.tv). 
 
-For notebooks, it is recommended that your kernel environment is set to Python 3. Check [requirements.txt](requirements.txt) for dependencies. Some notebooks are available in playground environments like Google Colab and Binder.
+Most examples are available in playground environments like Google Colab and Binder. For standalone notebooks, it is recommended that your kernel environment is set to Python 3. Check [requirements.txt](requirements.txt) for dependencies. 
 
 # Chapter 1. Getting Started
 
 ## Project 1.1 Drawing Sketches
 
-In this project we begin by simply sketching a portrait, a pose of a human or an animal, and scene, a building or a landscape. Just draw anything you like, we'll use it later in the book.
+In this project we begin by simply sketching a portrait, a pose of a human or an animal, and scene, a building or a landscape. Just draw anything you like, we'll use it later in the book. With this method by combining creativity and AI, we'll make beautiful illustrations, like these:
 
 ![http://kevinashley.com](images/sketches.png)
 
