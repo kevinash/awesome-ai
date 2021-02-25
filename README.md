@@ -47,15 +47,14 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 ## Project 3.1 Create a Single Neuron
 
-- Single Neuron ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/3_NeuralNetworks/SimpleNeuralNetworks.ipynb))
+- Make a Single Neuron ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/3_NeuralNetworks/SimpleNeuralNetworks.ipynb))
 
 ## Project 3.2 Neural Networks
 
-- Neural Networks ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/3_NeuralNetworks/Multi-LayerNetworks.ipynb))
+- Make a Simple Neural Network ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/3_NeuralNetworks/Multi-LayerNetworks.ipynb))
 - Activation Functions ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/3_NeuralNetworks/ActivationFunctions.ipynb))
 - Visualizing Neurons ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/3_NeuralNetworks/VisualizingNeurons.ipynb))
 - Activation Atlas ([Article](https://ai.googleblog.com/2018/03/the-building-blocks-of-interpretability.html)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/activation-atlas/activation-atlas-simple.ipynb)) 
-
 
 ## Project 3.3 Neural Methods
 
@@ -65,13 +64,24 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 # Chapter 4. Drawing, Sketching and Painting 
 
-## Project 4.1 Sketching 
+## Project 4.1 Sketch with AI
 
 - Quick Draw - Doodling with AI ( [Try it](https://quickdraw.withgoogle.com/) )
+
+## Project 4.2 Inking and Sketch Refining
+
 - Cartoonify – turn your photo in a drawing, Google experiment ( [Try it](https://experiments.withgoogle.com/cartoonify) )
 - Sketch RNN ( [Try it](https://experiments.withgoogle.com/sketch-rnn-demo) )
+
+- Colorize Photos ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/ImageColorizerColab.ipynb))
+- Colorize Sketches ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/ImageColorizerColabSketch.ipynb))
+- Colorize GrayScale ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/ImageColorizerColabGrayScale.ipynb))
+- Colorize Sketch to Grayscale ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/ImageColorizerColabSketch2Gray.ipynb))
+
+
 - Sketch Simplification ( [Paper](https://esslab.jp/~ess/en/research/sketch_master/) | [Code](https://github.com/bobbens/sketch_simplification) )
 - Sketching Lines Refining ( [Code](https://github.com/hepesu/LineRelifer/) )
+- Sketch based Deep Learning ( [Read more...](https://github.com/qyzdao/Sketch-Based-Deep-Learning) )
 
 ## Project 4.2 Shadow and Light
 
