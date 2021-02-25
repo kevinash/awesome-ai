@@ -73,8 +73,9 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - Cartoonify – turn your photo in a drawing, Google experiment ( [Try it](https://experiments.withgoogle.com/cartoonify) )
 - Sketch RNN ( [Try it](https://experiments.withgoogle.com/sketch-rnn-demo) )
 
-- Colorize Photos ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/ImageColorizerColab.ipynb))
 - Colorize Sketches ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/ImageColorizerColabSketch.ipynb))
+
+- Colorize Photos ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/ImageColorizerColab.ipynb))
 - Colorize GrayScale ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/ImageColorizerColabGrayScale.ipynb))
 - Colorize Sketch to Grayscale ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/ImageColorizerColabSketch2Gray.ipynb))
 
