@@ -31,11 +31,11 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 In this project we begin by simply sketching a portrait, a pose of a human or an animal, and scene, a building or a landscape. Just draw anything you like, we'll use it later in the book.
 
-- **Quick Draw** - Doodling with AI and predictive sketching. This is a great tool to understand how AI can predict what you are thinking to sketch! It also comes with Quick Draw dataset, collected from thousands of drawings! ( [Try it](https://quickdraw.withgoogle.com/) )
+- **Quick Draw** - Doodling with AI and predictive sketching. This is a great tool to understand how AI can predict what you are thinking to sketch! It also comes with Quick Draw dataset, collected from thousands of drawings! ( [Demo](https://quickdraw.withgoogle.com/) )
 - **Photoshop Neural Filters**, and Adobe Sensei - is the classic digital tool’s window to AI creativity. Explore neural filters that Adobe engineers collected as part of Photoshop. ( [Article](https://helpx.adobe.com/photoshop/using/neural-filters.html) )
 - **Clip Studio Paint AI Colorizing** – another classic illustration and drawing tool very popular with manga and anime artists. This tool includes AI colorizing that allows you to apply color to your sketches. We discuss AI based coloring in depth in this book. ( [Article](https://tips.clip-studio.com/en-us/articles/3939) )
-- **Petalica Paint** ( [Try it](https://petalica-paint.pixiv.dev/index_en.html) )
-- **OpenAI Microscope** – in this book we discuss neural networks. OpenAI came out with a great tool to visualize neural networks. This is a fantastic tool to understand how images get processed through different types of neural nets. ([Try it](https://openai.com/blog/microscope/))
+- **Petalica Paint** ( [Demo](https://petalica-paint.pixiv.dev/index_en.html) )
+- **OpenAI Microscope** – in this book we discuss neural networks. OpenAI came out with a great tool to visualize neural networks. This is a fantastic tool to understand how images get processed through different types of neural nets. ([Demo](https://openai.com/blog/microscope/))
 
 
 ## Project 2.2 Getting Started with Notebooks
@@ -67,12 +67,12 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 ## Project 4.1 Explore Sketching with AI
 
-- **Quick Draw** - Doodling with AI and predictive sketching. This is a great tool to understand how AI can predict what you are thinking to sketch! It also comes with Quick Draw dataset, collected from thousands of drawings! ( [Try it](https://quickdraw.withgoogle.com/) )
-- **Sketch RNN** ( [Try it](https://experiments.withgoogle.com/sketch-rnn-demo) )
-- **Predicting the rest of the sketch** you can see a variety of different endings predicted by the model. ( [Try it](https://magenta.tensorflow.org/assets/sketch_rnn_demo/multi_predict.html) )
-- **Morphing one sketch to another** the model will come up with new drawings that it believes to be the interpolation between the two original drawings ( [Try it](https://magenta.tensorflow.org/assets/sketch_rnn_demo/interp.html) )
-- **Mimic your sketches** Rather than drawing a perfect duplicate copy of your drawing, the model will try to mimic your drawing instead. ( [Try it](https://magenta.tensorflow.org/assets/sketch_rnn_demo/multi_vae.html) )
-- **Cartoonify** – turn your photo in a drawing, Google experiment ( [Try it](https://experiments.withgoogle.com/cartoonify) )
+- **Quick Draw** - Doodling with AI and predictive sketching. This is a great tool to understand how AI can predict what you are thinking to sketch! It also comes with Quick Draw dataset, collected from thousands of drawings! ( [Demo](https://quickdraw.withgoogle.com/) )
+- **Sketch RNN** ( [Demo](https://experiments.withgoogle.com/sketch-rnn-demo) )
+- **Predicting the rest of the sketch** you can see a variety of different endings predicted by the model. ( [Demo](https://magenta.tensorflow.org/assets/sketch_rnn_demo/multi_predict.html) )
+- **Morphing one sketch to another** the model will come up with new drawings that it believes to be the interpolation between the two original drawings ( [Demo](https://magenta.tensorflow.org/assets/sketch_rnn_demo/interp.html) )
+- **Mimic your sketches** Rather than drawing a perfect duplicate copy of your drawing, the model will try to mimic your drawing instead. ( [Demo](https://magenta.tensorflow.org/assets/sketch_rnn_demo/multi_vae.html) )
+- **Cartoonify** – turn your photo in a drawing, Google experiment ( [Demo](https://experiments.withgoogle.com/cartoonify) )
 
 Read more about sketching and AI models:
 
@@ -98,7 +98,7 @@ More on sketching...
 - Sketch from portraits (ArtLine) ( [Code](https://github.com/vijishmadhavan/ArtLine) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/SketchFromPortraits_ArtLine.ipynb))
 - Cartoons from Portraits ( [Code](https://github.com/vijishmadhavan/Toon-Me) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/CartoonifyPortraits_ToonMe.ipynb) )
 - Pix2Pix ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb) | [Code](https://github.com/phillipi/pix2pix) | [Demo](https://affinelayer.com/pixsrv/) )
-- ShadeSketch ( [Paper](https://arxiv.org/abs/2002.11812) | [Try it](https://qyzdao.github.io/ShadeSketch/) | [Code](https://github.com/qyzdao/ShadeSketch) )
+- ShadeSketch ( [Paper](https://arxiv.org/abs/2002.11812) | [Demo](https://qyzdao.github.io/ShadeSketch/) | [Code](https://github.com/qyzdao/ShadeSketch) )
 - Design and technical sketches [Sketch Graph](https://github.com/PrincetonLIPS/SketchGraphs)
     
 # Chapter 5. Faces and Expressions with AI
@@ -168,7 +168,7 @@ More on sketching...
 # Chapter 3. Creative AI Tools 
 
 - Neural Network Visualization
-    - OpenAI Microscope ([Try it](https://openai.com/blog/microscope/))
+    - OpenAI Microscope ([Demo](https://openai.com/blog/microscope/))
     - Activation Atlases ([Article](https://ai.googleblog.com/2018/03/the-building-blocks-of-interpretability.html)|[Colab](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/activation-atlas/activation-atlas-simple.ipynb)) 
 - Style Transfer
     - Fast Style Transfer ([Code](https://github.com/lengstrom/fast-style-transfer))
