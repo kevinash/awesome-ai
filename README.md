@@ -74,7 +74,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - **Mimic your sketches** Rather than drawing a perfect duplicate copy of your drawing, the model will try to mimic your drawing instead. ( [Demo](https://magenta.tensorflow.org/assets/sketch_rnn_demo/multi_vae.html) )
 - **Cartoonify** – turn your photo in a drawing, Google experiment ( [Demo](https://experiments.withgoogle.com/cartoonify) )
 
-Read more about sketching and AI models:
+### More about sketching and AI
 
 - A Neural Representation of Sketch Drawings - ( [Article](https://arxiv.org/abs/1704.03477) )
 
