@@ -31,11 +31,12 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 In this project we begin by simply sketching a portrait, a pose of a human or an animal, and scene, a building or a landscape. Just draw anything you like, we'll use it later in the book.
 
-- Quick Draw - Doodling with AI ( [Try it](https://quickdraw.withgoogle.com/) )
-- OpenAI Microscope ([Try it](https://openai.com/blog/microscope/)) - a great tool to visualize neural networks! 
-- Photoshop and Adobe Sensei - Neural Filters ( [Article](https://helpx.adobe.com/photoshop/using/neural-filters.html) )
-- Clip Studio Paint - AI Colorizing ( [Article](https://tips.clip-studio.com/en-us/articles/3939) )
-- Petalica Paint ( [Try it](https://petalica-paint.pixiv.dev/index_en.html) )
+- **Quick Draw** - Doodling with AI and predictive sketching. This is a great tool to understand how AI can predict what you are thinking to sketch! It also comes with Quick Draw dataset, collected from thousands of drawings! ( [Try it](https://quickdraw.withgoogle.com/) )
+- **Photoshop Neural Filters**, and Adobe Sensei - is the classic digital tool’s window to AI creativity. Explore neural filters that Adobe engineers collected as part of Photoshop. ( [Article](https://helpx.adobe.com/photoshop/using/neural-filters.html) )
+- **Clip Studio Paint AI Colorizing** – another classic illustration and drawing tool very popular with manga and anime artists. This tool includes AI colorizing that allows you to apply color to your sketches. We discuss AI based coloring in depth in this book. ( [Article](https://tips.clip-studio.com/en-us/articles/3939) )
+- **Petalica Paint** ( [Try it](https://petalica-paint.pixiv.dev/index_en.html) )
+- **OpenAI Microscope** – in this book we discuss neural networks. OpenAI came out with a great tool to visualize neural networks. This is a fantastic tool to understand how images get processed through different types of neural nets. ([Try it](https://openai.com/blog/microscope/))
+
 
 ## Project 2.2 Getting Started with Notebooks
 
@@ -64,27 +65,30 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 # Chapter 4. Drawing, Sketching and Painting 
 
-## Project 4.1 Sketch with AI
+## Project 4.1 Explore Sketching with AI
 
-- Quick Draw - Doodling with AI ( [Try it](https://quickdraw.withgoogle.com/) )
+- **Quick Draw** - Doodling with AI and predictive sketching. This is a great tool to understand how AI can predict what you are thinking to sketch! It also comes with Quick Draw dataset, collected from thousands of drawings! ( [Try it](https://quickdraw.withgoogle.com/) )
+- **Sketch RNN** ( [Try it](https://experiments.withgoogle.com/sketch-rnn-demo) )
+- **Predicting the rest of the sketch** you can see a variety of different endings predicted by the model. ( [Try it](https://magenta.tensorflow.org/assets/sketch_rnn_demo/multi_predict.html) )
+- **Morphing one sketch to another** the model will come up with new drawings that it believes to be the interpolation between the two original drawings ( [Try it](https://magenta.tensorflow.org/assets/sketch_rnn_demo/interp.html) )
+- **Mimic your sketches** Rather than drawing a perfect duplicate copy of your drawing, the model will try to mimic your drawing instead. ( [Try it](https://magenta.tensorflow.org/assets/sketch_rnn_demo/multi_vae.html) )
+- **Cartoonify** – turn your photo in a drawing, Google experiment ( [Try it](https://experiments.withgoogle.com/cartoonify) )
 
-## Project 4.2 Inking and Sketch Refining
 
-- Cartoonify – turn your photo in a drawing, Google experiment ( [Try it](https://experiments.withgoogle.com/cartoonify) )
-- Sketch RNN ( [Try it](https://experiments.withgoogle.com/sketch-rnn-demo) )
+## Project 4.2 Inking, Refining and Colorizing Sketches
 
 - Colorize Sketches ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/ImageColorizerColabSketch.ipynb))
-
 - Colorize Photos ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/ImageColorizerColab.ipynb))
 - Colorize GrayScale ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/ImageColorizerColabGrayScale.ipynb))
 - Colorize Sketch to Grayscale ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/ImageColorizerColabSketch2Gray.ipynb))
 
+More on sketching... 
 
 - Sketch Simplification ( [Paper](https://esslab.jp/~ess/en/research/sketch_master/) | [Code](https://github.com/bobbens/sketch_simplification) )
 - Sketching Lines Refining ( [Code](https://github.com/hepesu/LineRelifer/) )
 - Sketch based Deep Learning ( [Read more...](https://github.com/qyzdao/Sketch-Based-Deep-Learning) )
 
-## Project 4.2 Shadow and Light
+## Project 4.3 Shadow and Light
 
 - Sketch from portraits (ArtLine) ( [Code](https://github.com/vijishmadhavan/ArtLine) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/SketchFromPortraits_ArtLine.ipynb))
 - Cartoons from Portraits ( [Code](https://github.com/vijishmadhavan/Toon-Me) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/CartoonifyPortraits_ToonMe.ipynb) )
