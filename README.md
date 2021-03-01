@@ -83,29 +83,28 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - Colorize GrayScale ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/ImageColorizerColabGrayScale.ipynb))
 - Colorize Sketch to Grayscale ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/ImageColorizerColabSketch2Gray.ipynb))
 
-More on sketching... 
-
-- Sketch Simplification ( [Paper](https://esslab.jp/~ess/en/research/sketch_master/) | [Code](https://github.com/bobbens/sketch_simplification) )
-- Sketching Lines Refining ( [Code](https://github.com/hepesu/LineRelifer/) )
-- Sketch based Deep Learning ( [Read more...](https://github.com/qyzdao/Sketch-Based-Deep-Learning) )
-
-## Project 4.3 Shadow and Light
+## Project 4.3 More on Sketching
 
 - Sketch from portraits (ArtLine) ( [Code](https://github.com/vijishmadhavan/ArtLine) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/SketchFromPortraits_ArtLine.ipynb))
 - Cartoons from Portraits ( [Code](https://github.com/vijishmadhavan/Toon-Me) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/CartoonifyPortraits_ToonMe.ipynb) )
 - Pix2Pix ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb) | [Code](https://github.com/phillipi/pix2pix) | [Demo](https://affinelayer.com/pixsrv/) )
 - ShadeSketch ( [Paper](https://arxiv.org/abs/2002.11812) | [Try it](https://qyzdao.github.io/ShadeSketch/) | [Code](https://github.com/qyzdao/ShadeSketch) )
+- Sketch Simplification ( [Paper](https://esslab.jp/~ess/en/research/sketch_master/) | [Code](https://github.com/bobbens/sketch_simplification) )
+- Sketching Lines Refining ( [Code](https://github.com/hepesu/LineRelifer/) )
+- Sketch based Deep Learning ( [Read more...](https://github.com/qyzdao/Sketch-Based-Deep-Learning) )
 - Design and technical sketches [Sketch Graph](https://github.com/PrincetonLIPS/SketchGraphs)
     
 # Chapter 5. Faces and Expressions with AI
 
-- Face Detection ([Notebook](Face.ipynb))
-- Facial Landmarks and Attributes ([Notebook](Face.ipynb))
-- Eyes ([Notebook](Face.ipynb))
-- 3D Face Orientation ([Notebook](Face.ipynb))
-- Emotions and Facial Expressions ([Notebook](Face.ipynb))
-- Generate Faces ([Notebook](GenerateFaces.ipynb))
-- Tips for applying AI to faces ([Notebook](Face.ipynb))
+## Project 5.1 Face and Facial Features
+
+- **Facial Detection** facial detection with Google MediaPipe ( [Docs](https://google.github.io/mediapipe) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/5_FacesAndExpressions/MediaPipe_Face_Detection.ipynb))
+- **Facial Features** facial features with Google MediaPipe ( [Docs](https://google.github.io/mediapipe) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/5_FacesAndExpressions/MediaPipe_Face_Mesh.ipynb))
+- **Hair Recoloring** - Super realistic real time hair recoloring and segmentation. ( [Docs](https://google.github.io/mediapipe/solutions/hair_segmentation.html) )
+
+## Project 5.2 Generate Anime Faces
+
+- Generate Anime Faces - this notebook shows how to use StyleGAN to generate anime faces. ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/5_FacesAndExpressions/Generate_Anime_with_StyleGAN.ipynb) )
 
 # Chapter 6. Body and Poses with AI
 
@@ -142,7 +141,7 @@ More on sketching...
 - Exaggerating Features (Cartoonification)  ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/2_Creativity/Cartoonify_GAN.ipynb) )
 
 
-- Generate Anime Faces  ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/2_Creativity/GenerateAnimeFaces.ipynb) )
+
 
 
 - Activation Atlas ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/ActivationAtlas.ipynb) 
