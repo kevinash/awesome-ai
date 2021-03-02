@@ -104,7 +104,11 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 ## Project 5.2 Generate Anime Faces
 
-- Generate Anime Faces - this notebook shows how to use StyleGAN to generate anime faces. ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/5_FacesAndExpressions/Generate_Anime_with_StyleGAN.ipynb) )
+- **Generate Anime Faces** - this notebook shows how to use StyleGAN to generate anime faces. ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/5_FacesAndExpressions/Generate_Anime_with_StyleGAN.ipynb) )
+- **Photorealistic faces** with NVIDIA StyleGAN2 ( [Article](https://news.developer.nvidia.com/synthesizing-high-resolution-images-with-stylegan2/) | [Code](https://github.com/NVlabs/stylegan2) )
+- **Generate Cartoon Faces with Customization** - this notebook uses StyleGAN2 to create customizable cartoon faces based on Cartoon Set ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/5_FacesAndExpressions/CustomizableToonFaces_cartoonset100k.ipynb) )
+- **Training StyleGAN model on portraits** train StyleGAN to generate portraits **long, advanced** ( [Docs](https://google.github.io/mediapipe) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/5_FacesAndExpressions/StyleGAN_Portraits.ipynb))
+- **This Anime Does not Exist** is a great exploration tool for anime generation ( [This Anime Does Not Exist](https://thisanimedoesnotexist.ai) )
 
 # Chapter 6. Body and Poses with AI
 
