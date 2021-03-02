@@ -96,6 +96,8 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
     
 # Chapter 5. Faces and Expressions with AI
 
+![http://kevinashley.com](images/anime-faces.png)
+
 ## Project 5.1 Face and Facial Features
 
 - **Facial Detection** facial detection with Google MediaPipe ( [Docs](https://google.github.io/mediapipe) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/5_FacesAndExpressions/MediaPipe_Face_Detection.ipynb))
