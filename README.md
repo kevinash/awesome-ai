@@ -119,7 +119,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 ## Project 6.1 Detecting Body Keypoints
 
 - **Detecting Body Keypoints** using PyTorch ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/6_PosesAndAction/DetectingHumanBodyKeypoints.ipynb))
-- **Body Pose Estimation** using MediaPipe ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/6_PosesAndAction/Pose_MediaPipe.ipynb))
+- **Body Pose Estimation** using MediaPipe and a 1790 painting _The Reverend Robert Walker Skating on Duddingston Loch_, better known by its shorter title The Skating Minister, an oil painting attributed to Henry Raeburn  ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/6_PosesAndAction/Pose_MediaPipe.ipynb))
 
 
 - Keypoints and joints with AI ([Notebook](Face.ipynb))
