@@ -116,6 +116,12 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 # Chapter 6. Body and Poses with AI
 
+## Project 6.1 Detecting Body Keypoints
+
+- **Detecting Body Keypoints** using PyTorch ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/6_PosesAndAction/DetectingHumanBodyKeypoints.ipynb))
+- **Body Pose Estimation** using MediaPipe ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/6_PosesAndAction/Pose_MediaPipe.ipynb))
+
+
 - Keypoints and joints with AI ([Notebook](Face.ipynb))
 - Pose Estimation ([Notebook](Face.ipynb))
 - Datasets 2D ([Notebook](Face.ipynb))
