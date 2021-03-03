@@ -64,6 +64,8 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 # Chapter 4. Drawing, Sketching and Painting 
 
+![http://kevinashley.com](images/ballerina-colors-banner-96-thumb.png)
+
 ## Project 4.1 Explore Sketching with AI
 
 - **Quick Draw** - Doodling with AI and predictive sketching. This is a great tool to understand how AI can predict what you are thinking to sketch! It also comes with Quick Draw dataset, collected from thousands of drawings! ( [Try it](https://quickdraw.withgoogle.com/) )
@@ -74,8 +76,6 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - **Cartoonify** – turn your photo in a drawing, Google experiment ( [Try it](https://experiments.withgoogle.com/cartoonify) )
 
 ## Project 4.2 Colorize your Sketch
-
-![http://kevinashley.com](images/ballerina-colors-banner-96-thumb.png)
 
 - **Colorize Sketches** - great online model to get started with ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/ImageColorizerColabSketch.ipynb))
 - **Style2Paints** - one of the best tools for colorization, for best results this tool requires installation ( [Docs](https://style2paints.github.io/) | [Code](https://github.com/lllyasviel/style2paints) )
@@ -103,6 +103,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - **Facial Detection** facial detection with Google MediaPipe ( [Docs](https://google.github.io/mediapipe) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/5_FacesAndExpressions/MediaPipe_Face_Detection.ipynb))
 - **Facial Features** facial features with Google MediaPipe ( [Docs](https://google.github.io/mediapipe) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/5_FacesAndExpressions/MediaPipe_Face_Mesh.ipynb))
 - **Hair Recoloring** - Super realistic real time hair recoloring and segmentation. ( [Docs](https://google.github.io/mediapipe/solutions/hair_segmentation.html) )
+- **Iris and Depth** - an amazing work that shows how to reconstruct depth from an iris. ( [Docs](https://google.github.io/mediapipe/solutions/iris.html) )
 
 ## Project 5.2 Generate Anime Faces
 
