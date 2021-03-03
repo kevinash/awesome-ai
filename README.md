@@ -13,7 +13,7 @@ In the book you’ll find many illustrations and infographics created and augmen
 
 # Practical Projects for the Book
 
-Please, use these supplemental materials and code for the video tutorial [Awesome AI: Drawing with Artificial Intelligence](http://ai-learning.vhx.tv). 
+Please, use these supplemental materials and code for the video tutorial [Awesome AI: Make Art with Artificial Intelligence](http://ai-learning.vhx.tv). 
 
 Most examples are available in playground environments like Google Colab and Binder. For standalone notebooks, it is recommended that your kernel environment is set to Python 3. Check [requirements.txt](requirements.txt) for dependencies. 
 
