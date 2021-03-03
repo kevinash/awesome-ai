@@ -69,12 +69,12 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 ## Project 4.1 Explore Sketching with AI
 
-- **Quick Draw** - Doodling with AI and predictive sketching. This is a great tool to understand how AI can predict what you are thinking to sketch! It also comes with Quick Draw dataset, collected from thousands of drawings! ( [Try it](https://quickdraw.withgoogle.com/) )
-- **Sketch RNN** ( [Try it](https://experiments.withgoogle.com/sketch-rnn-demo) )
-- **Predicting the rest of the sketch** you can see a variety of different endings predicted by the model. ( [Try it](https://magenta.tensorflow.org/assets/sketch_rnn_demo/multi_predict.html) )
-- **Morphing one sketch to another** the model will come up with new drawings that it believes to be the interpolation between the two original drawings ( [Try it](https://magenta.tensorflow.org/assets/sketch_rnn_demo/interp.html) )
-- **Mimic your sketches** Rather than drawing a perfect duplicate copy of your drawing, the model will try to mimic your drawing instead. ( [Try it](https://magenta.tensorflow.org/assets/sketch_rnn_demo/multi_vae.html) )
-- **Cartoonify** – turn your photo in a drawing, Google experiment ( [Try it](https://experiments.withgoogle.com/cartoonify) )
+- **Quick Draw** - Doodling with AI and predictive sketching. This is a great tool to understand how AI can predict what you are thinking to sketch! It also comes with Quick Draw dataset, collected from thousands of drawings! ( [Demo](https://quickdraw.withgoogle.com/) )
+- **Sketch RNN** ( [Demo](https://experiments.withgoogle.com/sketch-rnn-demo) )
+- **Predicting the rest of the sketch** you can see a variety of different endings predicted by the model. ( [Demo](https://magenta.tensorflow.org/assets/sketch_rnn_demo/multi_predict.html) )
+- **Morphing one sketch to another** the model will come up with new drawings that it believes to be the interpolation between the two original drawings ( [Demo](https://magenta.tensorflow.org/assets/sketch_rnn_demo/interp.html) )
+- **Mimic your sketches** Rather than drawing a perfect duplicate copy of your drawing, the model will try to mimic your drawing instead. ( [Demo](https://magenta.tensorflow.org/assets/sketch_rnn_demo/multi_vae.html) )
+- **Cartoonify** – turn your photo in a drawing, Google experiment ( [Demo](https://experiments.withgoogle.com/cartoonify) )
 
 ## Project 4.2 Colorize your Sketch
 
@@ -89,7 +89,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - Sketch from portraits (ArtLine) ( [Code](https://github.com/vijishmadhavan/ArtLine) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/SketchFromPortraits_ArtLine.ipynb))
 - Cartoons from Portraits ( [Code](https://github.com/vijishmadhavan/Toon-Me) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/CartoonifyPortraits_ToonMe.ipynb) )
 - Pix2Pix ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb) | [Code](https://github.com/phillipi/pix2pix) | [Demo](https://affinelayer.com/pixsrv/) )
-- ShadeSketch ( [Paper](https://arxiv.org/abs/2002.11812) | [Try it](https://qyzdao.github.io/ShadeSketch/) | [Code](https://github.com/qyzdao/ShadeSketch) )
+- ShadeSketch ( [Paper](https://arxiv.org/abs/2002.11812) | [Demo](https://qyzdao.github.io/ShadeSketch/) | [Code](https://github.com/qyzdao/ShadeSketch) )
 - Sketch Simplification ( [Paper](https://esslab.jp/~ess/en/research/sketch_master/) | [Code](https://github.com/bobbens/sketch_simplification) )
 - Sketching Lines Refining ( [Code](https://github.com/hepesu/LineRelifer/) )
 - Sketch based Deep Learning ( [Read more...](https://github.com/qyzdao/Sketch-Based-Deep-Learning) )
