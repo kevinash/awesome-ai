@@ -138,6 +138,9 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 # Chapter 8. Scenes, Landscapes, Building and Architecture
  
+## Project 8.1 Image Generation and Interpolation
+
+- **Image Generation and Interpolation** check how to generate images with BigGAN, including interpolations - note the interpolation from a cruise liner ship to a monastery!  ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/8_LandscapesAndScenery/GeneratingImagesAndInterpolationWithBigGAN.ipynb))
 - Landscape Painting with Generative Adversarial Networks ([Article](https://arxiv.org/abs/2011.05552))
 
 # Chapter 2. Creativity with AI
