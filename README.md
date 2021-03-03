@@ -31,11 +31,11 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 In this project we begin by simply sketching a portrait, a pose of a human or an animal, and scene, a building or a landscape. Just draw anything you like, we'll use it later in the book.
 
-- **Quick Draw** - Doodling with AI and predictive sketching. This is a great tool to understand how AI can predict what you are thinking to sketch! It also comes with Quick Draw dataset, collected from thousands of drawings! ( [Try it](https://quickdraw.withgoogle.com/) )
+- **Quick Draw** - Doodling with AI and predictive sketching. This is a great tool to understand how AI can predict what you are thinking to sketch! It also comes with Quick Draw dataset, collected from thousands of drawings! ( [Demo](https://quickdraw.withgoogle.com/) )
 - **Photoshop Neural Filters**, and Adobe Sensei - is the classic digital tool’s window to AI creativity. Explore neural filters that Adobe engineers collected as part of Photoshop. ( [Article](https://helpx.adobe.com/photoshop/using/neural-filters.html) )
 - **Clip Studio Paint AI Colorizing** – another classic illustration and drawing tool very popular with manga and anime artists. This tool includes AI colorizing that allows you to apply color to your sketches. We discuss AI based coloring in depth in this book. ( [Article](https://tips.clip-studio.com/en-us/articles/3939) )
-- **Petalica Paint** ( [Try it](https://petalica-paint.pixiv.dev/index_en.html) )
-- **OpenAI Microscope** – in this book we discuss neural networks. OpenAI came out with a great tool to visualize neural networks. This is a fantastic tool to understand how images get processed through different types of neural nets. ([Try it](https://openai.com/blog/microscope/))
+- **Petalica Paint** ( [Demo](https://petalica-paint.pixiv.dev/index_en.html) )
+- **OpenAI Microscope** – in this book we discuss neural networks. OpenAI came out with a great tool to visualize neural networks. This is a fantastic tool to understand how images get processed through different types of neural nets. ([Demo](https://openai.com/blog/microscope/))
 
 
 ## Project 2.2 Getting Started with Notebooks
