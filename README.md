@@ -7,6 +7,7 @@ This book is for anyone interested in AI and creativity: design, art, illustrati
 
 In the book you’ll find many illustrations and infographics created and augmented by artificial intelligence. In addition to this book, there’s also a supplemental art book called The Art of AI which includes real art created with artificial intelligence from several artists who participated in this project. 
 
+- [Art Collection](https://opensea.io/collection/awesomeai) - all art from my book is available as NFT. If you would like to own some of the artworks I made for this book, please check my art [art collection](https://opensea.io/collection/awesomeai).
 - [Video Tutorials](http://ai-learning.vhx.tv) - Subscribe, updated weekly
 - [The Art of AI](http://kevinashley.com/art-of-ai) – A yearly almanac of the art of AI and the artwork for this book
 - [Instagram](http://instagram.com/awesomeai_art)
