@@ -138,12 +138,12 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 ## Project 7.1 Animating Characters
 
-- **Pose Animator** check this fantastic work to animate your illustrations. ( [Code](https://github.com/yemount/pose-animator) )
+- **Pose Animator** check this fantastic work to animate your illustrations. ( [Demo - Camera](https://pose-animator-demo.firebaseapp.com/camera.html) | [Demo - Image](https://pose-animator-demo.firebaseapp.com/static_image.html) | [Code](https://github.com/yemount/pose-animator)  )
 
 ## Project 7.2 Animation Examples
 
-- **Animating Lips: LipGAN** (  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/7_Animation/LipGANColab.ipynb))
-- **Animating Lips: Wave2Lip** ( [Demo](https://bhaasha.iiit.ac.in/lipsync) | [Code](https://github.com/Rudrabha/Wav2Lip) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/7_Animation/LipAnimation_Wav2Lip.ipynb))
+- **Animating Faces - Lips with LipGAN** (  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/7_Animation/LipGANColab.ipynb))
+- **Animating Faces - Lips with Wave2Lip** ( [Demo](https://bhaasha.iiit.ac.in/lipsync) | [Code](https://github.com/Rudrabha/Wav2Lip) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/7_Animation/LipAnimation_Wav2Lip.ipynb))
 - First Order Motion Model for Image Animation ([Paper](https://arxiv.org/pdf/2003.00196.pdf))
 - An Illusion of Life ([Book](https://www.amazon.com/gp/product/0786860707))
 - Animator's Survival Kit ([Book](https://www.amazon.com/Animators-Survival-Kit-Principles-Classical/dp/086547897X))
