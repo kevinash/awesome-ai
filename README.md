@@ -126,18 +126,18 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - **Reconstructing 3D** with human iris - an amazing work that shows how to reconstruct depth from an iris. ( [Docs](https://google.github.io/mediapipe/solutions/iris.html) )
 - **Fashion and Clothing** classifying fashion and clothing ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/classification.ipynb) )
 
-## Project 6.2 3D Avatar Tools for Art
+## Project 6.2 Pose Tools for 3D in Art
 
 1. Get assets for this example from [The Art of AI Collection](https://opensea.io/collection/awesomeai) Practical Pose Kit.These assets include a ClipStudio Paint and a Photoshop file. 
 2.	Open ClipStudio Paint file with the illustration and select 3D Painter layer (marked with a cube)
 3.	Play with changing painter’s avatar position and orientation. Note that the avatar pose includes constraints on joint movements that somewhat correspond to anatomical joints, but you still have the flexibility.
 4.	Once you’re happy with the avatar pose, you reduce level opacity to 15-20%, start a new layer, choose your favorite ink pen or a pencil and trace the avatar.
 
-
 # Chapter 7. Animation 
 
 ## Project 7.1 Animating Characters
 
+- **Animate a pose/face illustration** Download pose illustration assets from [The Art of AI Collection](https://opensea.io/collection/awesomeai) - look for **Pose Animation Asset Kit**. Use [Pose Animator](https://pose-animator-demo.firebaseapp.com/camera.html) to animate the SVG.
 - **Pose Animator** check this fantastic work to animate your illustrations. ( [Demo - Camera](https://pose-animator-demo.firebaseapp.com/camera.html) | [Demo - Image](https://pose-animator-demo.firebaseapp.com/static_image.html) | [Code](https://github.com/yemount/pose-animator)  )
 
 ## Project 7.2 Animation Examples
