@@ -138,6 +138,8 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 ## Project 7.1 Animating Characters
 
+- **Pose Animator** check this fantastic work to animate your illustrations. ( [Code](https://github.com/yemount/pose-animator) )
+
 ## Project 7.2 Animation Examples
 
 - **Animating Lips: LipGAN** (  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/7_Animation/LipGANColab.ipynb))
