@@ -37,6 +37,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - **Clip Studio Paint AI Colorizing** – another classic illustration and drawing tool very popular with manga and anime artists. This tool includes AI colorizing that allows you to apply color to your sketches. We discuss AI based coloring in depth in this book. ( [Article](https://tips.clip-studio.com/en-us/articles/3939) )
 - **Petalica Paint** ( [Demo](https://petalica-paint.pixiv.dev/index_en.html) )
 - **OpenAI Microscope** – in this book we discuss neural networks. OpenAI came out with a great tool to visualize neural networks. This is a fantastic tool to understand how images get processed through different types of neural nets. ([Demo](https://openai.com/blog/microscope/))
+- **Activation Atlases** ( [Article](https://ai.googleblog.com/2018/03/the-building-blocks-of-interpretability.html) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/activation-atlas/activation-atlas-simple.ipynb)
 
 
 ## Project 2.2 Getting Started with Notebooks
@@ -64,11 +65,11 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - Detection ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/3_NeuralNetworks/Detection.ipynb))
 - Segmentation ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/3_NeuralNetworks/Segmentation.ipynb))
 
-# Chapter 4. Drawing, Sketching and Painting 
+# Chapter 4. Drawing and Sketching
 
 ![http://kevinashley.com](images/ballerina-colors-banner-96-thumb.png)
 
-## Project 4.1 Explore Sketching with AI
+## Project 4.1 Explore Sketching 
 
 - **Quick Draw** - Doodling with AI and predictive sketching. This is a great tool to understand how AI can predict what you are thinking to sketch! It also comes with Quick Draw dataset, collected from thousands of drawings! ( [Demo](https://quickdraw.withgoogle.com/) )
 - **Sketch RNN** ( [Demo](https://experiments.withgoogle.com/sketch-rnn-demo) )
@@ -96,7 +97,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - Sketch based Deep Learning ( [Read more...](https://github.com/qyzdao/Sketch-Based-Deep-Learning) )
 - Design and technical sketches [Sketch Graph](https://github.com/PrincetonLIPS/SketchGraphs)
     
-# Chapter 5. Faces and Expressions with AI
+# Chapter 5. Faces and Expressions 
 
 ![http://kevinashley.com](images/anime-faces.png)
 
@@ -115,65 +116,57 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - **Training StyleGAN model on portraits** train StyleGAN to generate portraits **long, advanced** ( [Docs](https://google.github.io/mediapipe) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/5_FacesAndExpressions/StyleGAN_Portraits.ipynb))
 - **This Anime Does not Exist** is a great exploration tool for anime generation ( [This Anime Does Not Exist](https://thisanimedoesnotexist.ai) )
 
-# Chapter 6. Body and Poses with AI
+# Chapter 6. Body and Poses 
 
-## Project 6.1 Detecting Body Keypoints
+## Project 6.1 Poses and Actions
 
 - **Detecting Body Keypoints** using PyTorch ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/6_PosesAndAction/DetectingHumanBodyKeypoints.ipynb))
 - **Body Pose Estimation** using MediaPipe and a 1790 painting _The Reverend Robert Walker Skating on Duddingston Loch_, better known by its shorter title The Skating Minister, an oil painting attributed to Henry Raeburn  ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/6_PosesAndAction/Pose_MediaPipe.ipynb))
+- **Pose in 3D** with DensePose( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/6_PosesAndAction/Pose3D_DensePose.ipynb))
+- **Reconstructing 3D** with human iris - an amazing work that shows how to reconstruct depth from an iris. ( [Docs](https://google.github.io/mediapipe/solutions/iris.html) )
+- **Fashion and Clothing** classifying fashion and clothing ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/classification.ipynb) )
+
+## Project 6.2 3D Avatar Tools for Art
+
+1. Get assets for this example from [The Art of AI Collection](https://opensea.io/collection/awesomeai) Practical Pose Kit.These assets include a ClipStudio Paint and a Photoshop file. 
+2.	Open ClipStudio Paint file with the illustration and select 3D Painter layer (marked with a cube)
+3.	Play with changing painter’s avatar position and orientation. Note that the avatar pose includes constraints on joint movements that somewhat correspond to anatomical joints, but you still have the flexibility.
+4.	Once you’re happy with the avatar pose, you reduce level opacity to 15-20%, start a new layer, choose your favorite ink pen or a pencil and trace the avatar.
 
 
-- Keypoints and joints with AI ([Notebook](Face.ipynb))
-- Pose Estimation ([Notebook](Face.ipynb))
-- Datasets 2D ([Notebook](Face.ipynb))
-- Datasets 3D ([Notebook](Face.ipynb))
-- Tips for using AI with human body ([Notebook](Face.ipynb))
+# Chapter 7. Animation 
 
-# Chapter 7. Animation with AI
+## Project 7.1 Animating Characters
 
+## Project 7.2 Animation Examples
+
+- **Animating Lips: LipGAN** (  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/7_Animation/LipGANColab.ipynb))
+- **Animating Lips: Wave2Lip** ( [Demo](https://bhaasha.iiit.ac.in/lipsync) | [Code](https://github.com/Rudrabha/Wav2Lip) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/7_Animation/LipAnimation_Wav2Lip.ipynb))
 - First Order Motion Model for Image Animation ([Paper](https://arxiv.org/pdf/2003.00196.pdf))
 - An Illusion of Life ([Book](https://www.amazon.com/gp/product/0786860707))
 - Animator's Survival Kit ([Book](https://www.amazon.com/Animators-Survival-Kit-Principles-Classical/dp/086547897X))
-- Pose Animator (Faces and Poses)([Article](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html)|[Code](https://github.com/yemount/pose-animator)|[Demo](https://pose-animator-demo.firebaseapp.com/camera.html))
+- Pose Animator (Faces and Poses)( [Article](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html) | [Code](https://github.com/yemount/pose-animator) | [Demo](https://pose-animator-demo.firebaseapp.com/camera.html))
  
-
-# Chapter 8. Scenes, Landscapes, Building and Architecture
+# Chapter 8. Landscapes and Scenery
  
-## Project 8.1 Image Generation and Interpolation
+## Project 8.1 Examples
 
 - **Image Generation and Interpolation** check how to generate images with BigGAN, including interpolations - note the interpolation from a cruise liner ship to a monastery!  ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/8_LandscapesAndScenery/GeneratingImagesAndInterpolationWithBigGAN.ipynb))
 - Landscape Painting with Generative Adversarial Networks ([Article](https://arxiv.org/abs/2011.05552))
 
-# Chapter 2. Creativity with AI
-
-## Project 2.1 Style Transfer
-
-## Project 2.2 Compositions and Patterns
-
-- Patterns ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/xy2rgb.ipynb) | [Article](https://distill.pub/2018/differentiable-parameterizations/) )
+# Chapter 9. Style and Creativity
 
 ![](images/cppn_transparency.png)
 
+## Project 9.1 Style, Compositions and Patterns
+
+- Patterns ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/xy2rgb.ipynb) | [Article](https://distill.pub/2018/differentiable-parameterizations/) )
 - Transparency and Patterns ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/2_Creativity/Transparency.ipynb))
-
 - Exaggerating Features (Cartoonification)  ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/2_Creativity/Cartoonify_GAN.ipynb) )
-
-
-
-
-
 - Activation Atlas ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/ActivationAtlas.ipynb) 
-
-
-- 
-- 
 - Style Transfer(|[Original Colab](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/style_transfer_2d.ipynb)|[Colab](https://colab.research.google.com/drive/1Yia9N6r3sMK04zjFAJUqD3GA4XPA4Qjz))
-
-## Project 1.2 Explore Creativity
-
 - Text to Illustration (Deep Daze) - OpenAI CLIP and SIREN ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/2_Tools/Deep_Daze.ipynb) ) 
 - Text to Illustration (Big Sleep) - OpenAI CLIP and BigGAN ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/2_Tools/Big_Sleep.ipynb) ) 
-
 - Style Transfer ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/StyleTransfer_Pytorch.ipynb) ) 
 - Style Transfer with Blending Proportions ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/lite/g3doc/models/style_transfer/overview.ipynb) )
 - Style Transfer Parametrizations ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/style_transfer_2d.ipynb) )
@@ -181,11 +174,6 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - WikiArt Model Artwork Trained ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Norod/my-colab-experiments/blob/master/WikiArt_Example_Generation_By_Peter_Baylies.ipynb) )
 - Artwork Trained Model ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/StyleGAN_Paintings.ipynb) )
 
-# Chapter 3. Creative AI Tools 
-
-- Neural Network Visualization
-    - OpenAI Microscope ([Try it](https://openai.com/blog/microscope/))
-    - Activation Atlases ([Article](https://ai.googleblog.com/2018/03/the-building-blocks-of-interpretability.html)|[Colab](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/activation-atlas/activation-atlas-simple.ipynb)) 
 - Style Transfer
     - Fast Style Transfer ([Code](https://github.com/lengstrom/fast-style-transfer))
     - Generative Style Transfer ([Tensorflow](https://www.tensorflow.org/tutorials/generative/style_transfer))
@@ -197,6 +185,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
   - Fashion [Tool](https://app.runwayml.com/models/ALANIX/Fashion-Illustrations)|[Code](https://colab.research.google.com/drive/1zRt7bKlH6sHeo3anHwvVnz6Z_0YToWb7) 
 - 3D Models
     - [Article](https://nv-tlabs.github.io/DIB-R/)
+
 
 # The Art of AI
 
