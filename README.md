@@ -148,6 +148,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - An Illusion of Life ([Book](https://www.amazon.com/gp/product/0786860707))
 - Animator's Survival Kit ([Book](https://www.amazon.com/Animators-Survival-Kit-Principles-Classical/dp/086547897X))
 - Pose Animator (Faces and Poses)( [Article](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html) | [Code](https://github.com/yemount/pose-animator) | [Demo](https://pose-animator-demo.firebaseapp.com/camera.html))
+- Animating Loss Landscapes ( [Article](https://towardsdatascience.com/animations-of-gradient-descent-and-loss-landscapes-of-neural-networks-in-python-e757f3584057) | [Code](https://github.com/BundleOfKent/Animations-of-Logistic-Regression/blob/main/Animations_LogisticRegression.ipynb) )
  
 # Chapter 8. Landscapes and Scenery
  
