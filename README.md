@@ -156,6 +156,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 - **Image Generation and Interpolation** check how to generate images with BigGAN, including interpolations - note the interpolation from a cruise liner ship to a monastery!  ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/8_LandscapesAndScenery/GeneratingImagesAndInterpolationWithBigGAN.ipynb))
 - Landscape Painting with Generative Adversarial Networks ([Article](https://arxiv.org/abs/2011.05552))
+- **GauGAN - AI as a smart brush** - NVIDIA project ([Demo](https://www.nvidia.com/en-us/research/ai-playground/))
 
 # Chapter 9. Style and Creativity
 
@@ -192,4 +193,10 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 # The Art of AI
 
+All illustrations from this book are available in [The Art of AI Collection](https://opensea.io/collection/awesomeai) on block chain. If you collect digital art, this collection contains original digital illustrations, sketches and more. 
 
+![https://opensea.io/collection/awesomeai](images/art-of-ai-gallery.jpg)
+
+* [Book](http://kevinashley.com)
+
+* [Gallery](https://opensea.io/collection/awesomeai)
