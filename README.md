@@ -1,17 +1,18 @@
 # Awesome AI: Make Art with Artificial Intelligence
-__Make and Sell your Art with Artificial Intelligence, Blockchain and NFT__
+>Make and Sell your Art with Artificial Intelligence, Blockchain and NFT
 
 Book by Kevin Ashley
+
 
 **Practical experiments from the book**
 
 This book is for anyone interested in AI and creativity.
 
-![http://kevinashley.com](images/banner.png)
+[![http://kevinashley.com](images/banner.png)](http://kevinashley.com)
 
 All illustrations in this book are created or augmented with AI and are available as NFTs on blockchain in this art collection [The Art of AI](https://opensea.io/collection/awesomeai). 
 
-- [Art Collection](https://opensea.io/collection/awesomeai) - all art from my book is available as NFT. If you would like to own some of the artworks I made for this book, please [check it out](https://opensea.io/collection/awesomeai).
+- [The Art of AI Collection](https://opensea.io/collection/awesomeai) - all art from my book is available as NFT. If you would like to own some of the artworks I made for this book, please [check it out](https://opensea.io/collection/awesomeai).
 - [More video tutorials](http://ai-learning.vhx.tv) - More video tutorials made by the author.
 
 # Practical Projects for the Book
@@ -24,7 +25,7 @@ Most examples are available in playground environments like Google Colab and Bin
 
 In this project we begin by simply sketching a portrait, a pose of a human or an animal, and scene, a building or a landscape. Just draw anything you like, we'll use it later in the book. With this method by combining creativity and AI, we'll make beautiful illustrations, like these:
 
-![http://kevinashley.com](images/sketches.png)
+[![http://kevinashley.com](images/sketches.png)](https://opensea.io/collection/awesomeai)
 
 # Chapter 2. Creative Tools
 
@@ -46,7 +47,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 # Chapter 3. Neural Networks
 
-![http://kevinashley.com](images/neuralnet.jpg)
+[![http://kevinashley.com](images/neuralnet.jpg)](https://opensea.io/collection/awesomeai)
 
 ## Project 3.1 Create a Single Neuron
 
@@ -67,7 +68,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 # Chapter 4. Drawing and Sketching
 
-![http://kevinashley.com](images/ballerina-colors-banner-96-thumb.png)
+[![http://kevinashley.com](images/ballerina-colors-banner-96-thumb.png)](https://opensea.io/collection/awesomeai)
 
 ## Project 4.1 Explore Sketching 
 
