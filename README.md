@@ -2,13 +2,13 @@
 >Make and Sell your Art with Artificial Intelligence, Blockchain and NFT
 
 Book by Kevin Ashley
-
+https://www.amazon.com/dp/B08YXW7M9K
 
 **Practical experiments from the book**
 
 This book is for anyone interested in AI and creativity.
 
-[![http://kevinashley.com](images/banner.png)](http://kevinashley.com)
+[![http://kevinashley.com](images/banner.png)](https://www.amazon.com/dp/B08YXW7M9K)
 
 All illustrations in this book are created or augmented with AI and are available as NFTs on blockchain in this art collection [The Art of AI](https://opensea.io/collection/awesomeai). 
 
@@ -26,6 +26,8 @@ Most examples are available in playground environments like Google Colab and Bin
 In this project we begin by simply sketching a portrait, a pose of a human or an animal, and scene, a building or a landscape. Just draw anything you like, we'll use it later in the book. With this method by combining creativity and AI, we'll make beautiful illustrations, like these:
 
 [![http://kevinashley.com](images/sketches.png)](https://opensea.io/collection/awesomeai)
+
+(see the [book](https://www.amazon.com/dp/B08YXW7M9K))
 
 # Chapter 2. Creative Tools
 
@@ -198,6 +200,6 @@ All illustrations from this book are available in [The Art of AI Collection](htt
 
 [![The Art of AI Collection](images/art-of-ai-gallery.jpg)](https://opensea.io/collection/awesomeai)
 
-* [Book](http://kevinashley.com)
+* [Book](https://www.amazon.com/dp/B08YXW7M9K)
 
 * [Gallery](https://opensea.io/collection/awesomeai)
