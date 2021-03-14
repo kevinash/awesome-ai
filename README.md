@@ -1,20 +1,20 @@
 # Awesome AI: Make Art with Artificial Intelligence
+__Make and Sell your Art with Artificial Intelligence, Blockchain and NFT__
+
 Book by Kevin Ashley
 
-This book is for anyone interested in AI and creativity: design, art, illustration, game creation, movies, animation, and other creative endeavors. My method is combining creativity and AI.
+**Practical experiments from the book**
+
+This book is for anyone interested in AI and creativity.
 
 ![http://kevinashley.com](images/banner.png)
 
-In the book you’ll find many illustrations and infographics created and augmented by artificial intelligence. In addition to this book, there’s also a supplemental art book called The Art of AI which includes real art created with artificial intelligence from several artists who participated in this project. 
+All illustrations in this book are created or augmented with AI and are available as NFTs on blockchain in this art collection [The Art of AI](https://opensea.io/collection/awesomeai). 
 
-- [Art Collection](https://opensea.io/collection/awesomeai) - all art from my book is available as NFT. If you would like to own some of the artworks I made for this book, please check my art [art collection](https://opensea.io/collection/awesomeai).
-- [Video Tutorials](http://ai-learning.vhx.tv) - Subscribe, updated weekly
-- [The Art of AI](http://kevinashley.com/art-of-ai) – A yearly almanac of the art of AI and the artwork for this book
-- [Instagram](http://instagram.com/awesomeai_art)
+- [Art Collection](https://opensea.io/collection/awesomeai) - all art from my book is available as NFT. If you would like to own some of the artworks I made for this book, please [check it out](https://opensea.io/collection/awesomeai).
+- [More video tutorials](http://ai-learning.vhx.tv) - More video tutorials made by the author.
 
 # Practical Projects for the Book
-
-Please, use these supplemental materials and code for the video tutorial [Awesome AI: Make Art with Artificial Intelligence](http://ai-learning.vhx.tv). 
 
 Most examples are available in playground environments like Google Colab and Binder. For standalone notebooks, it is recommended that your kernel environment is set to Python 3. Check [requirements.txt](requirements.txt) for dependencies. 
 
@@ -195,7 +195,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 All illustrations from this book are available in [The Art of AI Collection](https://opensea.io/collection/awesomeai) on block chain. If you collect digital art, this collection contains original digital illustrations, sketches and more. 
 
-![https://opensea.io/collection/awesomeai](images/art-of-ai-gallery.jpg)
+[![The Art of AI Collection](images/art-of-ai-gallery.jpg)](https://opensea.io/collection/awesomeai)
 
 * [Book](http://kevinashley.com)
 
