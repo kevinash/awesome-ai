@@ -2,22 +2,22 @@
 >Make and Sell your Art with Artificial Intelligence, Blockchain and NFT
 
 Book by Kevin Ashley
-https://www.amazon.com/dp/B08YXW7M9K
 
-**Practical experiments from the book**
+[https://www.amazon.com/dp/B08YXW7M9K](https://www.amazon.com/dp/B08YXW7M9K)
 
-This book is for anyone interested in AI and creativity.
 
 [![http://kevinashley.com](images/banner.png)](https://www.amazon.com/dp/B08YXW7M9K)
+
+_**Now, No.1 on Amazon New Releases in Neural Networks category**_
+
+## Practical experiments from the book
 
 All illustrations in this book are created or augmented with AI and are available as NFTs on blockchain in this art collection [The Art of AI](https://opensea.io/collection/awesomeai). 
 
 - [The Art of AI Collection](https://opensea.io/collection/awesomeai) - all art from my book is available as NFT. If you would like to own some of the artworks I made for this book, please [check it out](https://opensea.io/collection/awesomeai).
 - [More video tutorials](http://ai-learning.vhx.tv) - More video tutorials made by the author.
 
-# Practical Projects for the Book
-
-Most examples are available in playground environments like Google Colab and Binder. For standalone notebooks, it is recommended that your kernel environment is set to Python 3. Check [requirements.txt](requirements.txt) for dependencies. 
+**Note:** Most examples are available in playground environments like Google Colab and Binder. For standalone notebooks, it is recommended that your kernel environment is set to Python 3. Check [requirements.txt](requirements.txt) for dependencies. 
 
 # Chapter 1. Getting Started
 
@@ -48,7 +48,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - Getting Started with Notebooks - Style Transfer ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/StyleTransfer_Pytorch.ipynb) ) - this is a basic introduction to using an online Colab notebook. No installation required, but a GPU kernel recommended. Very easy code with just a few steps. 
 
 # Chapter 3. Neural Networks
-
+(see the [book](https://www.amazon.com/dp/B08YXW7M9K))
 [![http://kevinashley.com](images/neuralnet.jpg)](https://opensea.io/collection/awesomeai)
 
 ## Project 3.1 Create a Single Neuron
@@ -69,7 +69,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - Segmentation ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/3_NeuralNetworks/Segmentation.ipynb))
 
 # Chapter 4. Drawing and Sketching
-
+(see the [book](https://www.amazon.com/dp/B08YXW7M9K))
 [![http://kevinashley.com](images/ballerina-colors-banner-96-thumb.png)](https://opensea.io/collection/awesomeai)
 
 ## Project 4.1 Explore Sketching 
@@ -103,6 +103,8 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 # Chapter 5. Faces and Expressions 
 
 ![http://kevinashley.com](images/anime-faces.png)
+
+(see the [book](https://www.amazon.com/dp/B08YXW7M9K))
 
 ## Project 5.1 Face and Facial Features
 
@@ -200,6 +202,8 @@ All illustrations from this book are available in [The Art of AI Collection](htt
 
 [![The Art of AI Collection](images/art-of-ai-gallery.jpg)](https://opensea.io/collection/awesomeai)
 
-* [Book](https://www.amazon.com/dp/B08YXW7M9K)
 
-* [Gallery](https://opensea.io/collection/awesomeai)
+[Art of AI NFT Gallery](https://opensea.io/collection/awesomeai)
+
+[Book on Amazon](https://www.amazon.com/dp/B08YXW7M9K)
+
