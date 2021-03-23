@@ -99,6 +99,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - Sketching Lines Refining ( [Code](https://github.com/hepesu/LineRelifer/) )
 - Sketch based Deep Learning ( [Read more...](https://github.com/qyzdao/Sketch-Based-Deep-Learning) )
 - Design and technical sketches [Sketch Graph](https://github.com/PrincetonLIPS/SketchGraphs)
+- **Super-Resolution** enhance lower resolution images with AI ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/image_enhancing.ipynb))
     
 # Chapter 5. Faces and Expressions 
 
