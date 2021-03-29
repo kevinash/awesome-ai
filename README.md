@@ -131,6 +131,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - **Pose in 3D** with DensePose( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/6_PosesAndAction/Pose3D_DensePose.ipynb))
 - **Reconstructing 3D** with human iris - an amazing work that shows how to reconstruct depth from an iris. ( [Docs](https://google.github.io/mediapipe/solutions/iris.html) )
 - **Fashion and Clothing** classifying fashion and clothing ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/classification.ipynb) )
+- ** High Resolution 3D Human Digitization** ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt?usp=sharing) [Paper](https://shunsukesaito.github.io/PIFuHD/))
 
 ## Project 6.2 Pose Tools for 3D in Art
 
