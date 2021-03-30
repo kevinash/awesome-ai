@@ -1,3 +1,4 @@
+## MAKE ART with Artificial Intelligence
 >Make and Sell your Art with Artificial Intelligence, Blockchain and NFT
 
 Book by Kevin Ashley 
