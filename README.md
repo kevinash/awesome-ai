@@ -1,14 +1,13 @@
-## MAKE ART with Artificial Intelligence 
 >Make and Sell your Art with Artificial Intelligence, Blockchain and NFT
 
-Book by Kevin Ashley (Amazon Bestseller in Neural Networks, Arts)
+Book by Kevin Ashley 
 
 [https://www.amazon.com/dp/B08YXW7M9K](https://www.amazon.com/dp/B08YXW7M9K)
 
 
 [![http://kevinashley.com](images/banner.png)](https://www.amazon.com/dp/B08YXW7M9K)
 
-_**Now, No.1 on Amazon New Releases in Neural Networks category**_
+_**Amazon Bestseller in Neural Networks, Arts**_
 
 ## Practical experiments from the book
 
