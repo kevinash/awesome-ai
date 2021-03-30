@@ -1,4 +1,4 @@
-# Awesome AI: Make Art with Artificial Intelligence
+# MAKE ART with Artificial Intelligence 
 >Make and Sell your Art with Artificial Intelligence, Blockchain and NFT
 
 Book by Kevin Ashley
@@ -40,7 +40,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - **Clip Studio Paint AI Colorizing** – another classic illustration and drawing tool very popular with manga and anime artists. This tool includes AI colorizing that allows you to apply color to your sketches. We discuss AI based coloring in depth in this book. ( [Article](https://tips.clip-studio.com/en-us/articles/3939) )
 - **Petalica Paint** ( [Demo](https://petalica-paint.pixiv.dev/index_en.html) )
 - **OpenAI Microscope** – in this book we discuss neural networks. OpenAI came out with a great tool to visualize neural networks. This is a fantastic tool to understand how images get processed through different types of neural nets. ([Demo](https://openai.com/blog/microscope/))
-- **Activation Atlases** ( [Article](https://ai.googleblog.com/2018/03/the-building-blocks-of-interpretability.html) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/activation-atlas/activation-atlas-simple.ipynb)
+- **Activation Atlases** ([Article](https://ai.googleblog.com/2018/03/the-building-blocks-of-interpretability.html)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/activation-atlas/activation-atlas-simple.ipynb))
 
 
 ## Project 2.2 Getting Started with Notebooks
@@ -60,7 +60,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - Make a Simple Neural Network ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/3_NeuralNetworks/Multi-LayerNetworks.ipynb))
 - Activation Functions ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/3_NeuralNetworks/ActivationFunctions.ipynb))
 - Visualizing Neurons ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/3_NeuralNetworks/VisualizingNeurons.ipynb))
-- Activation Atlas ([Article](https://ai.googleblog.com/2018/03/the-building-blocks-of-interpretability.html)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/activation-atlas/activation-atlas-simple.ipynb)) 
+- Activation Atlas ([Article](https://ai.googleblog.com/2018/03/the-building-blocks-of-interpretability.html)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/activation-atlas/activation-atlas-simple.ipynb)) 
 
 ## Project 3.3 Neural Methods
 
@@ -84,7 +84,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 ## Project 4.2 Colorize your Sketch
 
 - **Colorize Sketches** - great online model to get started with ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/ImageColorizerColabSketch.ipynb))
-- **Style2Paints** - one of the best tools for colorization, for best results this tool requires installation ( [Docs](https://style2paints.github.io/) | [Code](https://github.com/lllyasviel/style2paints) )
+- **Style2Paints** - one of the best tools for colorization, for best results this tool requires installation ([Docs](https://style2paints.github.io/)|[Code](https://github.com/lllyasviel/style2paints))
 - Colorize Photos ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/ImageColorizerColab.ipynb))
 - Colorize GrayScale ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/ImageColorizerColabGrayScale.ipynb))
 - Colorize Sketch to Grayscale ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/ImageColorizerColabSketch2Gray.ipynb))
