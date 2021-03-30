@@ -1,5 +1,5 @@
 ## MAKE ART with Artificial Intelligence
->Make and Sell your Art with Artificial Intelligence, Blockchain and NFT
+>How to use AI, NFT and Blockchain super-tools to make and sell your art
 
 Book by Kevin Ashley ([https://www.amazon.com/dp/B08YXW7M9K](https://www.amazon.com/dp/B08YXW7M9K))
 
