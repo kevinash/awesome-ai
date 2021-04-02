@@ -1,5 +1,5 @@
 ## MAKE ART with Artificial Intelligence
->How to use AI, NFT and Blockchain super-tools to make and sell your art
+>How to use AI, NFT and Blockchain super-tools to make and sell your art. Your v3.0 drawing tutorial on drawing, sketching, inking, light, shading, coloring, face generation, animation with AI.
 
 Book by Kevin Ashley ([https://www.amazon.com/dp/B08YXW7M9K](https://www.amazon.com/dp/B08YXW7M9K))
 
