@@ -89,11 +89,11 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 ## Project 4.3 More on Sketching
 
-- Sketch from portraits (ArtLine) ( [Code](https://github.com/vijishmadhavan/ArtLine) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/SketchFromPortraits_ArtLine.ipynb))
-- Cartoons from Portraits ( [Code](https://github.com/vijishmadhavan/Toon-Me) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/CartoonifyPortraits_ToonMe.ipynb) )
-- Pix2Pix ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb) | [Code](https://github.com/phillipi/pix2pix) | [Demo](https://affinelayer.com/pixsrv/) )
-- ShadeSketch ( [Paper](https://arxiv.org/abs/2002.11812) | [Demo](https://qyzdao.github.io/ShadeSketch/) | [Code](https://github.com/qyzdao/ShadeSketch) )
-- Sketch Simplification ( [Paper](https://esslab.jp/~ess/en/research/sketch_master/) | [Code](https://github.com/bobbens/sketch_simplification) )
+- Sketch from portraits (ArtLine) ( [Code](https://github.com/vijishmadhavan/ArtLine) , [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/SketchFromPortraits_ArtLine.ipynb))
+- Cartoons from Portraits ( [Code](https://github.com/vijishmadhavan/Toon-Me) , [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/CartoonifyPortraits_ToonMe.ipynb) )
+- Pix2Pix ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb) , [Code](https://github.com/phillipi/pix2pix) , [Demo](https://affinelayer.com/pixsrv/) )
+- ShadeSketch ( [Paper](https://arxiv.org/abs/2002.11812) , [Demo](https://qyzdao.github.io/ShadeSketch/) , [Code](https://github.com/qyzdao/ShadeSketch) )
+- Sketch Simplification ( [Paper](https://esslab.jp/~ess/en/research/sketch_master/) , [Code](https://github.com/bobbens/sketch_simplification) )
 - Sketching Lines Refining ( [Code](https://github.com/hepesu/LineRelifer/) )
 - Sketch based Deep Learning ( [Read more...](https://github.com/qyzdao/Sketch-Based-Deep-Learning) )
 - Design and technical sketches [Sketch Graph](https://github.com/PrincetonLIPS/SketchGraphs)
@@ -107,17 +107,17 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 ## Project 5.1 Face and Facial Features
 
-- **Facial Detection** facial detection with Google MediaPipe ( [Docs](https://google.github.io/mediapipe) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/5_FacesAndExpressions/MediaPipe_Face_Detection.ipynb))
-- **Facial Features** facial features with Google MediaPipe ( [Docs](https://google.github.io/mediapipe) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/5_FacesAndExpressions/MediaPipe_Face_Mesh.ipynb))
+- **Facial Detection** facial detection with Google MediaPipe ( [Docs](https://google.github.io/mediapipe) , [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/5_FacesAndExpressions/MediaPipe_Face_Detection.ipynb))
+- **Facial Features** facial features with Google MediaPipe ( [Docs](https://google.github.io/mediapipe) , [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/5_FacesAndExpressions/MediaPipe_Face_Mesh.ipynb))
 - **Hair Recoloring** - Super realistic real time hair recoloring and segmentation. ( [Docs](https://google.github.io/mediapipe/solutions/hair_segmentation.html) )
 - **Iris and Depth** - an amazing work that shows how to reconstruct depth from an iris. ( [Docs](https://google.github.io/mediapipe/solutions/iris.html) )
 
 ## Project 5.2 Generate Anime Faces
 
 - **Generate Anime Faces** - this notebook shows how to use StyleGAN to generate anime faces. ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/5_FacesAndExpressions/Generate_Anime_with_StyleGAN.ipynb) )
-- **Photorealistic faces** with NVIDIA StyleGAN2 ( [Article](https://news.developer.nvidia.com/synthesizing-high-resolution-images-with-stylegan2/) | [Code](https://github.com/NVlabs/stylegan2) )
+- **Photorealistic faces** with NVIDIA StyleGAN2 ( [Article](https://news.developer.nvidia.com/synthesizing-high-resolution-images-with-stylegan2/) , [Code](https://github.com/NVlabs/stylegan2) )
 - **Generate Cartoon Faces with Customization** - this notebook uses StyleGAN2 to create customizable cartoon faces based on Cartoon Set ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/5_FacesAndExpressions/CustomizableToonFaces_cartoonset100k.ipynb) )
-- **Training StyleGAN model on portraits** train StyleGAN to generate portraits **long, advanced** ( [Docs](https://google.github.io/mediapipe) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/5_FacesAndExpressions/StyleGAN_Portraits.ipynb))
+- **Training StyleGAN model on portraits** train StyleGAN to generate portraits **long, advanced** ( [Docs](https://google.github.io/mediapipe) , [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/5_FacesAndExpressions/StyleGAN_Portraits.ipynb))
 - **This Anime Does not Exist** is a great exploration tool for anime generation ( [This Anime Does Not Exist](https://thisanimedoesnotexist.ai) )
 
 # Chapter 6. Body and Poses 
@@ -129,7 +129,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - **Pose in 3D** with DensePose( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/6_PosesAndAction/Pose3D_DensePose.ipynb))
 - **Reconstructing 3D** with human iris - an amazing work that shows how to reconstruct depth from an iris. ( [Docs](https://google.github.io/mediapipe/solutions/iris.html) )
 - **Fashion and Clothing** classifying fashion and clothing ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/classification.ipynb) )
-- **High Resolution 3D Human Digitization** ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt?usp=sharing) | [Paper](https://shunsukesaito.github.io/PIFuHD/))
+- **High Resolution 3D Human Digitization** ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt?usp=sharing) , [Paper](https://shunsukesaito.github.io/PIFuHD/))
 
 ## Project 6.2 Pose Tools for 3D in Art
 
@@ -143,17 +143,17 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 ## Project 7.1 Animating Characters
 
 - **Animate a pose/face illustration** Download pose illustration assets from [The Art of AI Collection](https://opensea.io/collection/awesomeai) - look for **Pose Animation Asset Kit**. Use [Pose Animator](https://pose-animator-demo.firebaseapp.com/camera.html) to animate the SVG.
-- **Pose Animator** check this fantastic work to animate your illustrations. ( [Demo - Camera](https://pose-animator-demo.firebaseapp.com/camera.html) | [Demo - Image](https://pose-animator-demo.firebaseapp.com/static_image.html) | [Code](https://github.com/yemount/pose-animator)  )
+- **Pose Animator** check this fantastic work to animate your illustrations. ( [Demo - Camera](https://pose-animator-demo.firebaseapp.com/camera.html) , [Demo - Image](https://pose-animator-demo.firebaseapp.com/static_image.html) , [Code](https://github.com/yemount/pose-animator)  )
 
 ## Project 7.2 Animation Examples
 
 - **Animating Faces - Lips with LipGAN** (  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/7_Animation/LipGANColab.ipynb))
-- **Animating Faces - Lips with Wave2Lip** ( [Demo](https://bhaasha.iiit.ac.in/lipsync) | [Code](https://github.com/Rudrabha/Wav2Lip) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/7_Animation/LipAnimation_Wav2Lip.ipynb))
+- **Animating Faces - Lips with Wave2Lip** ( [Demo](https://bhaasha.iiit.ac.in/lipsync) , [Code](https://github.com/Rudrabha/Wav2Lip) , [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/7_Animation/LipAnimation_Wav2Lip.ipynb))
 - First Order Motion Model for Image Animation ([Paper](https://arxiv.org/pdf/2003.00196.pdf))
 - An Illusion of Life ([Book](https://www.amazon.com/gp/product/0786860707))
 - Animator's Survival Kit ([Book](https://www.amazon.com/Animators-Survival-Kit-Principles-Classical/dp/086547897X))
-- Pose Animator (Faces and Poses)( [Article](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html) | [Code](https://github.com/yemount/pose-animator) | [Demo](https://pose-animator-demo.firebaseapp.com/camera.html))
-- Animating Loss Landscapes ( [Article](https://towardsdatascience.com/animations-of-gradient-descent-and-loss-landscapes-of-neural-networks-in-python-e757f3584057) | [Code](https://github.com/BundleOfKent/Animations-of-Logistic-Regression/blob/main/Animations_LogisticRegression.ipynb) )
+- Pose Animator (Faces and Poses)( [Article](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html) , [Code](https://github.com/yemount/pose-animator) , [Demo](https://pose-animator-demo.firebaseapp.com/camera.html))
+- Animating Loss Landscapes ( [Article](https://towardsdatascience.com/animations-of-gradient-descent-and-loss-landscapes-of-neural-networks-in-python-e757f3584057) , [Code](https://github.com/BundleOfKent/Animations-of-Logistic-Regression/blob/main/Animations_LogisticRegression.ipynb) )
  
 # Chapter 8. Landscapes and Scenery
  
@@ -169,7 +169,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 ## Project 9.1 Style, Compositions and Patterns
 
-- Patterns ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/xy2rgb.ipynb) | [Article](https://distill.pub/2018/differentiable-parameterizations/) )
+- Patterns ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/xy2rgb.ipynb) , [Article](https://distill.pub/2018/differentiable-parameterizations/) )
 - Transparency and Patterns ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/2_Creativity/Transparency.ipynb))
 - Exaggerating Features (Cartoonification)  ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/2_Creativity/Cartoonify_GAN.ipynb) )
 - Activation Atlas ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/ActivationAtlas.ipynb) 
