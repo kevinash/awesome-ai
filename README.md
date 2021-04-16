@@ -38,7 +38,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - **Clip Studio Paint AI Colorizing** – another classic illustration and drawing tool very popular with manga and anime artists. This tool includes AI colorizing that allows you to apply color to your sketches. We discuss AI based coloring in depth in this book. ( [Article](https://tips.clip-studio.com/en-us/articles/3939) )
 - **Petalica Paint** ( [Demo](https://petalica-paint.pixiv.dev/index_en.html) )
 - **OpenAI Microscope** – in this book we discuss neural networks. OpenAI came out with a great tool to visualize neural networks. This is a fantastic tool to understand how images get processed through different types of neural nets. ([Demo](https://openai.com/blog/microscope/))
-- **Activation Atlases** ([Article](https://ai.googleblog.com/2018/03/the-building-blocks-of-interpretability.html)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/activation-atlas/activation-atlas-simple.ipynb))
+- **Activation Atlases** ([Article](https://ai.googleblog.com/2018/03/the-building-blocks-of-interpretability.html), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/activation-atlas/activation-atlas-simple.ipynb))
 
 
 ## Project 2.2 Getting Started with Notebooks
@@ -78,6 +78,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - **Morphing one sketch to another** the model will come up with new drawings that it believes to be the interpolation between the two original drawings ( [Demo](https://magenta.tensorflow.org/assets/sketch_rnn_demo/interp.html) )
 - **Mimic your sketches** Rather than drawing a perfect duplicate copy of your drawing, the model will try to mimic your drawing instead. ( [Demo](https://magenta.tensorflow.org/assets/sketch_rnn_demo/multi_vae.html) )
 - **Cartoonify** – turn your photo in a drawing, Google experiment ( [Demo](https://experiments.withgoogle.com/cartoonify) )
+- **Monster Mash** - sketch based tool for 3D modeling and animation. This tool allows you to animate your sketch by inflating a 2D drawing to 3D and animating ([Demo](http://monstermash.zone/), [Article](https://ai.googleblog.com/2021/04/monster-mash-sketch-based-tool-for.html) )
 
 ## Project 4.2 Colorize your Sketch
 
@@ -154,6 +155,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - Animator's Survival Kit ([Book](https://www.amazon.com/Animators-Survival-Kit-Principles-Classical/dp/086547897X))
 - Pose Animator (Faces and Poses)( [Article](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html) , [Code](https://github.com/yemount/pose-animator) , [Demo](https://pose-animator-demo.firebaseapp.com/camera.html))
 - Animating Loss Landscapes ( [Article](https://towardsdatascience.com/animations-of-gradient-descent-and-loss-landscapes-of-neural-networks-in-python-e757f3584057) , [Code](https://github.com/BundleOfKent/Animations-of-Logistic-Regression/blob/main/Animations_LogisticRegression.ipynb) )
+- **Monster Mash** - sketch based tool for 3D modeling and animation. This tool allows you to animate your sketch by inflating a 2D drawing to 3D and animating ([Demo](http://monstermash.zone/), [Article](https://ai.googleblog.com/2021/04/monster-mash-sketch-based-tool-for.html) )
  
 # Chapter 8. Landscapes and Scenery
  
