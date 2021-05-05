@@ -86,7 +86,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 **NEW! Video Tutorial: Colorize Your Sketch with A.I.**
  
-[![http://https://awesomeai.vhx.tv/](images/video_colorize_thumb.jpg)](https://awesomeai.vhx.tv/)
+[![http://https://awesomeai.vhx.tv/](images/video_colorize_thumb.jpg)](https://awesomeai.vhx.tv/videos/colorize-illustrations-with-ai-make-art-with-artificial-intelligence/)
 
 Subscribe to video tutorials, every month I'll be adding new content.
 
