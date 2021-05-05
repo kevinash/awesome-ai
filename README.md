@@ -13,7 +13,7 @@ _**Amazon Bestseller in Neural Networks, Arts**_
 All illustrations in this book are created or augmented with AI and are available as NFTs on blockchain in this art collection [The Art of AI](https://opensea.io/collection/awesomeai). 
 
 - [The Art of AI Collection](https://opensea.io/collection/awesomeai) - all art from my book is available as NFT. If you would like to own some of the artworks I made for this book, please [check it out](https://opensea.io/collection/awesomeai).
-- [More video tutorials](http://ai-learning.vhx.tv) - More video tutorials made by the author.
+- [More video tutorials](http://awesomeai.vhx.tv) - More video tutorials made by the author.
 
 **Note:** Most examples are available in playground environments like Google Colab and Binder. For standalone notebooks, it is recommended that your kernel environment is set to Python 3. Check [requirements.txt](requirements.txt) for dependencies. 
 
@@ -83,6 +83,11 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 ## Project 4.2 Colorize your Sketch
 
 - **Colorize Sketches** - great online model to get started with ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/ImageColorizerColabSketch.ipynb))
+
+**NEW! Video Tutorial**:
+ 
+[![http://https://awesomeai.vhx.tv/](images/video_colorize_thumb.jpg)](https://awesomeai.vhx.tv/)
+
 - **Style2Paints** - one of the best tools for colorization, for best results this tool requires installation ([Docs](https://style2paints.github.io/) ,[Code](https://github.com/lllyasviel/style2paints))
 - Colorize Photos ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/ImageColorizerColab.ipynb))
 - Colorize GrayScale ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/ImageColorizerColabGrayScale.ipynb))
