@@ -88,8 +88,6 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
  
 [![http://https://awesomeai.vhx.tv/](images/video_colorize_thumb.jpg)](https://awesomeai.vhx.tv/videos/colorize-illustrations-with-ai-make-art-with-artificial-intelligence/)
 
-Subscribe to video tutorials, every month I'll be adding new content.
-
 - **Style2Paints** - one of the best tools for colorization, for best results this tool requires installation ([Docs](https://style2paints.github.io/) ,[Code](https://github.com/lllyasviel/style2paints))
 - Colorize Photos ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/ImageColorizerColab.ipynb))
 - Colorize GrayScale ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/ImageColorizerColabGrayScale.ipynb))
