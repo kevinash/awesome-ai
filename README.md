@@ -31,7 +31,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 # Chapter 2. Creative Tools
 
-**[NEW! Check Video Tutorials!](https://awesomeai.vhx.tv)** 
+**[NEW! Video Tutorial: Creative Tools](https://awesomeai.vhx.tv)** 
 
 [![https://awesomeai.vhx.tv/](images/video_creative_tools_thumb.jpg)](https://awesomeai.vhx.tv/videos/creative-tools-make-art-with-artificial-intelligence)
 
@@ -90,7 +90,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 - **Colorize Sketches** - great online model to get started with ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/ImageColorizerColabSketch.ipynb))
 
-**NEW! Video Tutorial: Colorize Your Sketch with A.I.**
+**[NEW! Video Tutorial: Colorize Your Sketch with A.I.](https://awesomeai.vhx.tv/videos/colorize-illustrations-with-ai-make-art-with-artificial-intelligence/)** 
  
 [![http://https://awesomeai.vhx.tv/](images/video_colorize_thumb.jpg)](https://awesomeai.vhx.tv/videos/colorize-illustrations-with-ai-make-art-with-artificial-intelligence/)
 
