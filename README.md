@@ -31,7 +31,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 # Chapter 2. Creative Tools
 
-**[NEW! Video Tutorial: Creative Tools](https://awesomeai.vhx.tv)** 
+**[NEW! Video Tutorial: Creative Tools](https://awesomeai.vhx.tv/videos/creative-tools-make-art-with-artificial-intelligence)** 
 
 [![https://awesomeai.vhx.tv/](images/video_creative_tools_thumb.jpg)](https://awesomeai.vhx.tv/videos/creative-tools-make-art-with-artificial-intelligence)
 
@@ -217,7 +217,7 @@ All illustrations from this book are available in [The Art of AI Collection](htt
 
 # Resources
 
-- [Book, Paperback edition](https://www.amazon.com/dp/B091J3T4HM), quality color print, feels and reads like an art book, 184 pages, 200 illustrations, 20+ study guides, highlighted tutorial sections, more illustrations than e-book (recommended with this course)
+- [Book (Paperback)](https://www.amazon.com/dp/B091J3T4HM), quality color print, feels and reads like an art book, 184 pages, 200 illustrations, 20+ study guides, highlighted tutorial sections, more illustrations than e-book (recommended with this course)
 - [Ebook (Amazon)](https://www.amazon.com/dp/B08YXW7M9K) - reflowable text, easy navigation to tutorials and easy read on phone, tablet or desktop
 - [Video Tutorials](http://awesomeai.vhx.tv) 
 - [The Art of AI](https://opensea.io/collection/awesomeai) - all art and sketches from my book in one place. If you would like to own some of the artworks I made for this book.
