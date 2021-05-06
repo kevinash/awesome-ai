@@ -15,10 +15,8 @@ _**Amazon Bestseller in Neural Networks, Arts**_
 
 [![https://awesomeai.vhx.tv/](images/video_tutorials_head_thumb.jpg)](https://awesomeai.vhx.tv)
 
-- [The Art of AI Collection](https://opensea.io/collection/awesomeai) - all art from my book in one place. If you would like to own some of the artworks I made for this book, please [check it out](https://opensea.io/collection/awesomeai).
+- [The Art of AI Collection](https://opensea.io/collection/awesomeai) - all art from my book in one place. If you would like to own some of the artworks I made for this book.
  
-All illustrations in this book are created or augmented with AI and are available as NFTs on blockchain in this art collection [The Art of AI](https://opensea.io/collection/awesomeai). 
-
 **Note:** Most examples are available in playground environments like Google Colab and Binder. For standalone notebooks, it is recommended that your kernel environment is set to Python 3. Check [requirements.txt](requirements.txt) for dependencies. 
 
 # Chapter 1. Getting Started
