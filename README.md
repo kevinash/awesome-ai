@@ -12,8 +12,11 @@ _**Amazon Bestseller in Neural Networks, Arts**_
 
 All illustrations in this book are created or augmented with AI and are available as NFTs on blockchain in this art collection [The Art of AI](https://opensea.io/collection/awesomeai). 
 
-- [The Art of AI Collection](https://opensea.io/collection/awesomeai) - all art from my book is available as NFT. If you would like to own some of the artworks I made for this book, please [check it out](https://opensea.io/collection/awesomeai).
-- [More video tutorials](http://awesomeai.vhx.tv) - More video tutorials made by the author.
+
+[![https://awesomeai.vhx.tv/](images/video_creative_tools_thumb.jpg)](https://awesomeai.vhx.tv/videos/creative-tools-make-art-with-artificial-intelligence)
+
+- [Video Tutorials](http://awesomeai.vhx.tv) - Video tutorials, get new updates and video deep dives monthly.
+- [The Art of AI Collection](https://opensea.io/collection/awesomeai) - all art from my book in one place. If you would like to own some of the artworks I made for this book, please [check it out](https://opensea.io/collection/awesomeai).
 
 **Note:** Most examples are available in playground environments like Google Colab and Binder. For standalone notebooks, it is recommended that your kernel environment is set to Python 3. Check [requirements.txt](requirements.txt) for dependencies. 
 
@@ -29,7 +32,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 # Chapter 2. Creative Tools
 
-** [NEW! Check Video Tutorials!](https://awesomeai.vhx.tv) ** 
+**[NEW! Check Video Tutorials!](https://awesomeai.vhx.tv)** 
 
 [![https://awesomeai.vhx.tv/](images/video_creative_tools_thumb.jpg)](https://awesomeai.vhx.tv/videos/creative-tools-make-art-with-artificial-intelligence)
 
