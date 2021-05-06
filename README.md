@@ -221,5 +221,5 @@ All illustrations from this book are available in [The Art of AI Collection](htt
 - [Ebook (Amazon)](https://www.amazon.com/dp/B08YXW7M9K) - reflowable text, easy navigation to tutorials and easy read on phone, tablet or desktop
 - [Video Tutorials](http://awesomeai.vhx.tv) 
 - [The Art of AI](https://opensea.io/collection/awesomeai) - all art and sketches from my book in one place. If you would like to own some of the artworks I made for this book.
-- [For eductors](http://kevinashley.com/2021/04/how-to-teach-an-art-or-technology-class-based-on-my-book-make-art-with-artificial-intelligence/) - Here's a guide to educators - __[How To Teach Art and Technology Class Based on This Book](http://kevinashley.com/2021/04/how-to-teach-an-art-or-technology-class-based-on-my-book-make-art-with-artificial-intelligence/)__
+- [For eductors](http://kevinashley.com/2021/04/how-to-teach-an-art-or-technology-class-based-on-my-book-make-art-with-artificial-intelligence/) - Here's a guide for educators - __[How To Teach Art and Technology Class Based on This Book](http://kevinashley.com/2021/04/how-to-teach-an-art-or-technology-class-based-on-my-book-make-art-with-artificial-intelligence/)__
 
