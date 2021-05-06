@@ -29,6 +29,11 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 # Chapter 2. Creative Tools
 
+** [NEW! Check Video Tutorials!](https://awesomeai.vhx.tv) ** 
+
+[![https://awesomeai.vhx.tv/](images/video_creative_tools_thumb.jpg)](https://awesomeai.vhx.tv/videos/creative-tools-make-art-with-artificial-intelligence)
+
+
 ## Project 2.1 Creative Tools and AI
 
 In this project we begin by simply sketching a portrait, a pose of a human or an animal, and scene, a building or a landscape. Just draw anything you like, we'll use it later in the book.
