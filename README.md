@@ -13,7 +13,7 @@ _**Amazon Bestseller in Neural Networks, Arts**_
 - [Ebook (Amazon)](https://www.amazon.com/dp/B08YXW7M9K) - reflowable text, easy navigation to tutorials and easy read on phone, tablet or desktop
 - [Video Tutorials](http://awesomeai.vhx.tv) - Video tutorials, get new updates and video deep dives monthly. 
 
-[![https://awesomeai.vhx.tv/](images/video_creative_tools_thumb.jpg)](https://awesomeai.vhx.tv/videos/creative-tools-make-art-with-artificial-intelligence)
+[![https://awesomeai.vhx.tv/](images/video_tutorials_head_thumb.jpg)](https://awesomeai.vhx.tv)
 
 - [The Art of AI Collection](https://opensea.io/collection/awesomeai) - all art from my book in one place. If you would like to own some of the artworks I made for this book, please [check it out](https://opensea.io/collection/awesomeai).
  
@@ -35,8 +35,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 **[NEW! Check Video Tutorials!](https://awesomeai.vhx.tv)** 
 
-[![https://awesomeai.vhx.tv/](images/video_tutorial_head_thumb.jpg)](https://awesomeai.vhx.tv)
-
+[![https://awesomeai.vhx.tv/](images/video_creative_tools_thumb.jpg)](https://awesomeai.vhx.tv/videos/creative-tools-make-art-with-artificial-intelligence)
 
 ## Project 2.1 Creative Tools and AI
 
