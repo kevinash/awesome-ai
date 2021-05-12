@@ -152,6 +152,10 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 # Chapter 7. Animation 
 
+**[NEW! Video Tutorial: 3D Animation](https://awesomeai.vhx.tv/videos/creative-tools-make-art-with-artificial-intelligence)** 
+
+[![https://awesomeai.vhx.tv/](images/titles_3d_animation_thumb.jpg)](https://awesomeai.vhx.tv/videos/3d-animation-make-art-with-artificial-intelligence)
+
 ## Project 7.1 Animating Characters
 
 - **Animate a pose/face illustration** Download pose illustration assets from [The Art of AI Collection](https://opensea.io/collection/awesomeai) - look for **Pose Animation Asset Kit**. Use [Pose Animator](https://pose-animator-demo.firebaseapp.com/camera.html) to animate the SVG.
@@ -166,7 +170,12 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - Animator's Survival Kit ([Book](https://www.amazon.com/Animators-Survival-Kit-Principles-Classical/dp/086547897X))
 - Pose Animator (Faces and Poses)( [Article](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html) , [Code](https://github.com/yemount/pose-animator) , [Demo](https://pose-animator-demo.firebaseapp.com/camera.html))
 - Animating Loss Landscapes ( [Article](https://towardsdatascience.com/animations-of-gradient-descent-and-loss-landscapes-of-neural-networks-in-python-e757f3584057) , [Code](https://github.com/BundleOfKent/Animations-of-Logistic-Regression/blob/main/Animations_LogisticRegression.ipynb) )
+
+## 3D Animation [Video Tutorial](https://awesomeai.vhx.tv/videos/creative-tools-make-art-with-artificial-intelligence)
+
 - **Monster Mash** - sketch based tool for 3D modeling and animation. This tool allows you to animate your sketch by inflating a 2D drawing to 3D and animating ([Demo](http://monstermash.zone/), [Article](https://ai.googleblog.com/2021/04/monster-mash-sketch-based-tool-for.html) )
+- **Generating Abstract Patterns** - tools to generate abstract texture patterns we used in this video ([Demo](https://otoro.net/ml/netart/), [Article](https://blog.otoro.net/2016/03/25/generating-abstract-patterns-with-tensorflow/) )
+
  
 # Chapter 8. Landscapes and Scenery
  
