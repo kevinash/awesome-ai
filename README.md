@@ -101,10 +101,14 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 ## Project 4.3 More on Sketching
 
+**[NEW! Video Tutorial: Light and Shadow with A.I.](https://awesomeai.vhx.tv/videos/light-and-shadow)** 
+ 
+[![http://https://awesomeai.vhx.tv/](images/video_tutorial_light_shadow_thumb.jpg)](https://awesomeai.vhx.tv/videos/light-and-shadow)
+
 - Sketch from portraits (ArtLine) ( [Code](https://github.com/vijishmadhavan/ArtLine) , [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/SketchFromPortraits_ArtLine.ipynb))
 - Cartoons from Portraits ( [Code](https://github.com/vijishmadhavan/Toon-Me) , [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/4_DrawingAndSketching/CartoonifyPortraits_ToonMe.ipynb) )
 - Pix2Pix ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb) , [Code](https://github.com/phillipi/pix2pix) , [Demo](https://affinelayer.com/pixsrv/) )
-- ShadeSketch ( [Paper](https://arxiv.org/abs/2002.11812) , [Demo](https://qyzdao.github.io/ShadeSketch/) , [Code](https://github.com/qyzdao/ShadeSketch) )
+- ShadeSketch ( [VIDEO](https://awesomeai.vhx.tv/videos/light-and-shadow),  [Paper](https://arxiv.org/abs/2002.11812) , [Demo](https://qyzdao.github.io/ShadeSketch/) , [Code](https://github.com/qyzdao/ShadeSketch) )
 - Sketch Simplification ( [Paper](https://esslab.jp/~ess/en/research/sketch_master/) , [Code](https://github.com/bobbens/sketch_simplification) )
 - Sketching Lines Refining ( [Code](https://github.com/hepesu/LineRelifer/) )
 - Sketch based Deep Learning ( [Read more...](https://github.com/qyzdao/Sketch-Based-Deep-Learning) )
@@ -123,6 +127,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - **Facial Features** facial features with Google MediaPipe ( [Docs](https://google.github.io/mediapipe) , [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/5_FacesAndExpressions/MediaPipe_Face_Mesh.ipynb))
 - **Hair Recoloring** - Super realistic real time hair recoloring and segmentation. ( [Docs](https://google.github.io/mediapipe/solutions/hair_segmentation.html) )
 - **Iris and Depth** - an amazing work that shows how to reconstruct depth from an iris. ( [Docs](https://google.github.io/mediapipe/solutions/iris.html) )
+- **Danbooru Anime Dataset** - tagged anime dataset ( [Demo](http://dev.kanotype.net:8003/deepdanbooru) )
 
 ## Project 5.2 Generate Anime Faces
 
