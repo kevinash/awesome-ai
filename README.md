@@ -49,7 +49,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 
 ## Project 2.2 Getting Started with Notebooks
 
-- Getting Started with Notebooks - Style Transfer ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/StyleTransfer_Pytorch.ipynb) ) - this is a basic introduction to using an online Colab notebook. No installation required, but a GPU kernel recommended. Very easy code with just a few steps. 
+- Getting Started with Notebooks - Style Transfer ( [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/1_GettingStarted/StyleTransfer_PyTorch.ipynb) ) - this is a basic introduction to using an online Colab notebook. No installation required, but a GPU kernel recommended. Very easy code with just a few steps. 
 
 # Chapter 3. Neural Networks
 (see the [book](https://www.amazon.com/dp/B08YXW7M9K))
