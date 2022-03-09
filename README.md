@@ -229,6 +229,9 @@ For artists using Photoshop, OpenAI models provide a wealth of stuff we can use 
 - [Remove Background Layer in Photoshop with AI](photoshop-codex/1-remove-background.jsx) - Photoshop and Codex
 - [Add and Center Text in Photoshop with AI](photoshop-codex/3-add-text.jsx) - Photoshop and Codex
 
+[![https://awesomeai.vhx.tv/](images/photoshop-codex.jpg)](https://awesomeai.vhx.tv)
+
+
 # The Art of AI
 
 All illustrations from this book are available in [The Art of AI Collection](https://opensea.io/collection/awesomeai) on block chain. If you collect digital art, this collection contains original digital illustrations, sketches and more. 
