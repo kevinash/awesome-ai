@@ -9,7 +9,7 @@
             "request": "launch",
             "name": "Ask for script name",
             "selectTargetColor": "yellow",
-            "program": "${workspaceFolder}/photoshop-codex/zodiac.jsx", // ${command:AskForScriptName}
+            "program": "${workspaceFolder}/photoshop-codex/photoshop-codex.jsx", // ${command:AskForScriptName}
             "stopOnEntry": false
         }
     ]
