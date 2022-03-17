@@ -13,10 +13,7 @@ Starting with the prompt:
 
 ```javascript
 /*
-Write functions for Adobe Illustrator 
-using Javascript (ExtendScript). 
-Functions assume that everything 
-happens in the active document.
+Write functions for Adobe Illustrator using Javascript. Functions assume that everything happens in the active document.
 */
 ```
 
