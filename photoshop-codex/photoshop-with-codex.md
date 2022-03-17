@@ -18,6 +18,7 @@ using Javascript (ExtendScript).
 Functions assume that everything 
 happens in the active document.
 */
+```
 
 
 ## Photoshop, Illustrator and Codex
