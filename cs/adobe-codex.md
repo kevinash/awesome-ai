@@ -22,7 +22,7 @@ In addition to the Adobe XD plugin I described above, here's some additional vid
 This example shows how to use Adobe Illustrator scripting with Codex. 
 [Code](zodiac.jsx) 
 
-[![Adobe XD + Codex AI Plugin](https://img.youtube.com/vi/V9qgVakzbSQ/0.jpg)](https://www.youtube.com/watch?v=V9qgVakzbSQ)
+[![Adobe XD + Codex AI Plugin](https://img.youtube.com/vi/cS0bVjXQ7gM/0.jpg)](https://www.youtube.com/watch?v=cS0bVjXQ7gM)
 
 ### Photoshop and Codex 
 
