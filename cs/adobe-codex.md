@@ -11,6 +11,10 @@ For artists using Adobe Creative Suite, including XD, Photoshop, Illustrator and
 
 I built a plugin for Adobe XD that allows you to use OpenAI and Codex engine for exploration or enhancing the workflow for building Adobe XD plugins. The plugin generates scripts for Adobe XD and UXP APIs.
 
+[![Adobe XD + Codex AI Plugin](https://img.youtube.com/vi/E9pOzou1R-Q/0.jpg)](https://www.youtube.com/watch?v=E9pOzou1R-Q)
+
+Here's another video using the plugin:
+
 [![Adobe XD + Codex AI Plugin](https://img.youtube.com/vi/V9qgVakzbSQ/0.jpg)](https://www.youtube.com/watch?v=V9qgVakzbSQ)
 
 ## Other Adobe Creative Suite tools and Codex
