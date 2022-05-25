@@ -1,7 +1,7 @@
 ## MAKE ART with Artificial Intelligence
 >How to use AI, NFT and Blockchain super-tools to make and sell your art. A richly illustrated tutorial on drawing sketching, inking, light, shading, coloring, face generation, animation and anything art with AI (check the book).
 
-Book by Kevin Ashley: [FREE on LivebookAI](https://livebookai.com/post/47j95kn4mqvm6eq8) [![FREE Ebook on LivebookAI](images/livebook-40-1.png)](https://livebookai.com/post/47j95kn4mqvm6eq8) or Amazon: ([https://www.amazon.com/dp/B091J3T4HM](https://www.amazon.com/dp/B091J3T4HM))
+Book by Kevin Ashley: [FREE eBook on LivebookAI](https://livebookai.com/post/47j95kn4mqvm6eq8) [![FREE Ebook on LivebookAI](images/livebook-40-1.png)](https://livebookai.com/post/47j95kn4mqvm6eq8) or Amazon: ([https://www.amazon.com/dp/B091J3T4HM](https://www.amazon.com/dp/B091J3T4HM))
 
 [![http://kevinashley.com](images/banner.png)](https://livebookai.com/post/47j95kn4mqvm6eq8)
 
@@ -244,7 +244,7 @@ All illustrations from this book are available in [The Art of AI Collection](htt
 
 # Resources
 
-- [FREE on LivebookAI](https://livebookai.com/post/47j95kn4mqvm6eq8) [![FREE Ebook on LivebookAI](images/livebook-40-1.png)](https://livebookai.com/post/47j95kn4mqvm6eq8) - with subscription. Livebook is a new awesome ebook and AI content service.
+- [FREE eBook on LivebookAI](https://livebookai.com/post/47j95kn4mqvm6eq8) [![FREE Ebook on LivebookAI](images/livebook-40-1.png)](https://livebookai.com/post/47j95kn4mqvm6eq8) - with subscription. Livebook is a new awesome ebook and AI content service.
 - [Book (Paperback)](https://www.amazon.com/dp/B091J3T4HM), quality color print, feels and reads like an art book, 184 pages, 200 illustrations, 20+ study guides, highlighted tutorial sections, more illustrations than e-book (recommended with this course)
 - [Ebook (Amazon)](https://www.amazon.com/dp/B08YXW7M9K) - reflowable text, easy navigation to tutorials and easy read on phone, tablet or desktop
 - [Video Tutorials](http://awesomeai.vhx.tv) 
