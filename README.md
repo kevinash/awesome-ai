@@ -1,7 +1,7 @@
 ## MAKE ART with Artificial Intelligence
 >How to use AI, NFT and Blockchain super-tools to make and sell your art. A richly illustrated tutorial on drawing sketching, inking, light, shading, coloring, face generation, animation and anything art with AI (check the book).
 
-Book by Kevin Ashley [![FREE Ebook on LivebookAI](images/livebook-40.png)](https://livebookai.com/post/47j95kn4mqvm6eq8) or Amazon: ([https://www.amazon.com/dp/B091J3T4HM](https://www.amazon.com/dp/B091J3T4HM))
+Book by Kevin Ashley: [FREE on LivebookAI](https://livebookai.com/post/47j95kn4mqvm6eq8) - [![FREE Ebook on LivebookAI](images/livebook-40.png)](https://livebookai.com/post/47j95kn4mqvm6eq8) or Amazon: ([https://www.amazon.com/dp/B091J3T4HM](https://www.amazon.com/dp/B091J3T4HM))
 
 [![http://kevinashley.com](images/banner.png)](https://www.amazon.com/dp/B091J3T4HM)
 
