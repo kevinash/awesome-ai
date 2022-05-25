@@ -3,7 +3,7 @@
 
 Book by Kevin Ashley: [FREE on LivebookAI](https://livebookai.com/post/47j95kn4mqvm6eq8) [![FREE Ebook on LivebookAI](images/livebook-40-1.png)](https://livebookai.com/post/47j95kn4mqvm6eq8) or Amazon: ([https://www.amazon.com/dp/B091J3T4HM](https://www.amazon.com/dp/B091J3T4HM))
 
-[![http://kevinashley.com](images/banner.png)](https://www.amazon.com/dp/B091J3T4HM)
+[![http://kevinashley.com](images/banner.png)](https://livebookai.com/post/47j95kn4mqvm6eq8)
 
 _**Amazon Bestseller in Neural Networks, Arts**_
 
