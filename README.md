@@ -222,7 +222,7 @@ In this project we begin by simply sketching a portrait, a pose of a human or an
 - 3D Models
     - [Article](https://nv-tlabs.github.io/DIB-R/)
 
-# Using Photoshop and Illustrator with Codex
+# Using Adobe Creative Suite with Codex
 
 [Check this section](cs/adobe-codex.md)
 
@@ -231,6 +231,7 @@ For artists using Photoshop, Illustrator and other Adobe Creative Suite products
 - [Astrology with Illustrator and Codex](cs/zodiac.jsx) - Illustrator and Codex
 - [Remove Background Layer in Photoshop with AI](cs/remove-background.jsx) - Photoshop and Codex
 - [Add and Center Text in Photoshop with AI](cs/add-text.jsx) - Photoshop and Codex
+- [Adobe XD Plugin](cs/adobe-xd-plugin) - Adobe XD Plugin
 
 [![https://awesomeai.vhx.tv/](images/photoshop-codex.jpg)](https://awesomeai.vhx.tv)
 
