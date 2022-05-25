@@ -44,4 +44,4 @@ Add and center text in Photoshop with Codex
 
 See my complete video tutorials on using AI with art:
 
-[![Video Tutorials](/images/photoshop-codex.jpg)](https://awesomeai.vhx.tv)
+[![Video Tutorials](/images/video_tutorials_head_thumb.jpg)](https://awesomeai.vhx.tv)
