@@ -1,0 +1,21 @@
+Select a single book
+
+Select all books on the artboard
+
+Duplicate each book in the selection and move below the selected item
+
+Make the height of the selected book 1500px
+
+Create 10 rectangles aligned horizontally.
+
+//
+
+Draw a rectangle with a random color.
+
+Create and select 10 rectangles, then align horizontally.
+
+Create and rotate 50 rectangles around the center.
+
+Select the book and duplicate below the original.
+
+Draw 50 rectangles rotating them around the center.
