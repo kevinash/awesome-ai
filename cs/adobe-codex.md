@@ -13,6 +13,8 @@ I built a plugin for Adobe XD that allows you to use OpenAI and Codex engine for
 
 [![Adobe XD + Codex AI Plugin](https://img.youtube.com/vi/E9pOzou1R-Q/0.jpg)](https://www.youtube.com/watch?v=E9pOzou1R-Q)
 
+[Adobe XD Plugin Source Code](adobe-xd-plugin) - Adobe XD Plugin Source Code
+
 Here's another video using the plugin:
 
 [![Adobe XD + Codex AI Plugin](https://img.youtube.com/vi/V9qgVakzbSQ/0.jpg)](https://www.youtube.com/watch?v=V9qgVakzbSQ)
